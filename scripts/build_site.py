@@ -58,8 +58,11 @@ input[type=search]{flex:1;min-width:180px;font:inherit;padding:8px 12px;border-r
 .main{flex:1;min-width:0}
 .repo{font-weight:600;color:var(--accent);text-decoration:none;word-break:break-all}
 .repo:hover{text-decoration:underline}
-.desc{color:var(--sub);font-size:13.5px;margin:5px 0 8px;display:-webkit-box;
+.desc{color:var(--text);font-size:13.5px;margin:5px 0 4px;display:-webkit-box;
+  -webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.desc-en{color:var(--sub);font-size:12px;margin:0 0 8px;display:-webkit-box;
   -webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+body.no-en .desc-en{display:none}
 .meta{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--sub)}
 .meta b{color:var(--text);font-weight:600}
 .dot{width:9px;height:9px;border-radius:50%;background:var(--accent);display:inline-block;margin-right:5px;vertical-align:-1px}
@@ -74,22 +77,24 @@ footer{margin-top:28px;color:var(--sub);font-size:12px;text-align:center}
 <div class="wrap">
   <header>
     <h1>GitHub 趋势榜 · 我的收藏夹</h1>
-    <p>数据来源 github.com/trending ｜ 抓取时间 __GENERATED__ ｜ 收藏保存在本机浏览器</p>
+    <p>数据来源 github.com/trending ｜ 抓取时间 __GENERATED__ ｜ 中文简介自动翻译 ｜ 收藏保存在本机浏览器</p>
   </header>
 
   <div class="toolbar">
     <div class="row" id="periods"></div>
     <div class="row" id="langs"></div>
     <div class="row">
-      <input type="search" id="q" placeholder="搜索仓库名 / 描述，例如 agent、quant、rust">
+      <input type="search" id="q" placeholder="搜索仓库名 / 中文简介 / 英文简介，例如 智能体、quant、rust">
       <button id="sortBtn">按周期新增排序</button>
       <button id="favBtn">只看收藏</button>
+      <button id="enBtn">显示原文</button>
       <span class="hint" id="count"></span>
     </div>
   </div>
 
   <div id="list"></div>
-  <footer>榜单每格最多约 25 条，数据为抓取时刻快照；星数口径以 GitHub 页面为准。</footer>
+  <footer>榜单每格最多约 25 条，数据为抓取时刻快照；星数口径以 GitHub 页面为准。<br>
+  中文简介由机器翻译（Google），术语可能不准，可点「显示原文」核对；译文按仓库说明缓存，不会重复翻译。</footer>
 </div>
 
 <script>
@@ -97,10 +102,11 @@ const DATA = __DATA__;
 const PERIOD_LABEL = __PLABEL__;
 const LANG_LABEL = __LLABEL__;
 
-let state = { period: "daily", lang: "all", q: "", sortBy: "gain", favOnly: false };
+let state = { period: "daily", lang: "all", q: "", sortBy: "gain", favOnly: false, showEn: true };
 let favs = new Set(JSON.parse(localStorage.getItem("gh_favs") || "[]"));
 
 const el = id => document.getElementById(id);
+const esc = s => (s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
 function boardKeys() {
   return Object.keys(DATA.boards);
@@ -144,7 +150,7 @@ function renderList() {
   let items = (DATA.boards[`${state.period}|${state.lang}`] || []).slice();
   if (state.q) {
     const q = state.q.toLowerCase();
-    items = items.filter(i => (i.repo + " " + i.desc).toLowerCase().includes(q));
+    items = items.filter(i => (i.repo + " " + (i.desc || "") + " " + (i.desc_zh || "")).toLowerCase().includes(q));
   }
   if (state.favOnly) items = items.filter(i => favs.has(i.repo));
   if (state.sortBy === "gain") items.sort((a, b) => (b.period_stars || 0) - (a.period_stars || 0));
@@ -163,7 +169,8 @@ function renderList() {
       <div class="main">
         <button class="fav${f}" data-repo="${i.repo}" title="收藏">★</button>
         <a class="repo" href="${i.url}" target="_blank" rel="noopener">${i.repo}</a>
-        <div class="desc">${i.desc || "（无描述）"}</div>
+        <div class="desc">${esc(i.desc_zh || i.desc) || "（无描述）"}</div>
+        ${i.desc_zh ? `<div class="desc-en">${esc(i.desc)}</div>` : ""}
         <div class="meta">
           <span class="gain">+${(i.period_stars ?? 0).toLocaleString()} / ${PERIOD_LABEL[state.period]}</span>
           <span><b>${(i.stars ?? 0).toLocaleString()}</b> stars</span>
@@ -191,11 +198,15 @@ function render() {
   el("sortBtn").textContent = state.sortBy === "gain" ? "按周期新增排序" : "按总 star 排序";
   el("sortBtn").classList.toggle("on", state.sortBy === "total");
   el("favBtn").classList.toggle("on", state.favOnly);
+  el("enBtn").textContent = state.showEn ? "隐藏原文" : "显示原文";
+  el("enBtn").classList.toggle("on", !state.showEn);
+  if (document.body) document.body.classList.toggle("no-en", !state.showEn);
 }
 
 el("q").addEventListener("input", e => { state.q = e.target.value.trim(); renderList(); });
 el("sortBtn").onclick = () => { state.sortBy = state.sortBy === "gain" ? "total" : "gain"; render(); };
 el("favBtn").onclick = () => { state.favOnly = !state.favOnly; render(); };
+el("enBtn").onclick = () => { state.showEn = !state.showEn; render(); };
 
 render();
 </script>

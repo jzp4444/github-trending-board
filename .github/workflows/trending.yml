@@ -4,6 +4,8 @@ on:
   schedule:
     # UTC；对应北京时间 08:17 / 14:17 / 20:17 / 02:17
     - cron: "17 0,6,12,18 * * *"
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -27,6 +29,9 @@ jobs:
 
       - name: Fetch trending boards
         run: python scripts/fetch_trending.py --sleep 2
+
+      - name: Translate descriptions to Chinese
+        run: python scripts/translate.py --sleep 1
 
       - name: Build single-file site
         run: python scripts/build_site.py

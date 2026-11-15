@@ -27,7 +27,8 @@
     "period_stars": 1041,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/dream-num/univer"
+    "url": "https://github.com/dream-num/univer",
+    "desc_zh": "使用 Univer Office SDK 构建您自己的 AI 办公室。将编辑、计算、协作和文件处理引入您的产品中，供人员和 AI 智能体使用。基于可扩展的开源核心构建。"
    },
    {
     "repo": "ag-ui-protocol/ag-ui",
@@ -38,7 +39,8 @@
     "period_stars": 393,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/ag-ui-protocol/ag-ui"
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "desc_zh": "AG-UI：智能体-用户交互协议。将智能体引入前端应用程序。"
    },
    {
     "repo": "google-labs-code/stitch-skills",
@@ -49,7 +51,8 @@
     "period_stars": 248,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/google-labs-code/stitch-skills"
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "desc_zh": "旨在与 Stitch MCP 服务器配合使用的智能体技能库。每个技能都遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体兼容。"
    },
    {
     "repo": "backnotprop/plannotator",
@@ -60,7 +63,8 @@
     "period_stars": 860,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/backnotprop/plannotator"
+    "url": "https://github.com/backnotprop/plannotator",
+    "desc_zh": "保持在循环中并在智能体之上的工作区 - 塑造、决定、计划、注释、审查代码、与团队共享以及一键将所有反馈发送给智能体。"
    },
    {
     "repo": "ChromeDevTools/chrome-devtools-mcp",
@@ -71,7 +75,8 @@
     "period_stars": 718,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc_zh": "用于编码智能体的 Chrome DevTools"
    },
    {
     "repo": "alibaba/open-code-review",
@@ -82,7 +87,8 @@
     "period_stars": 688,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/alibaba/open-code-review"
+    "url": "https://github.com/alibaba/open-code-review",
+    "desc_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM智能体，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
    },
    {
     "repo": "Tencent/LoopForge",
@@ -93,7 +99,8 @@
     "period_stars": 484,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/Tencent/LoopForge"
+    "url": "https://github.com/Tencent/LoopForge",
+    "desc_zh": "用于编码智能体交付的自托管工作流程。使用脚本和人工审批门来编排 CodeBuddy、Codex 和 Claude Code。包括编码助理的本地工作流程。"
    },
    {
     "repo": "ggml-org/ggml",
@@ -104,7 +111,8 @@
     "period_stars": 154,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/ggml-org/ggml"
+    "url": "https://github.com/ggml-org/ggml",
+    "desc_zh": "用于机器学习的张量库"
    },
    {
     "repo": "elementalsouls/Claude-BugHunter",
@@ -115,7 +123,8 @@
     "period_stars": 124,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "desc_zh": "用于错误搜寻和外部红队工作的 Claude Code 技能包 - 82 项技能、15 个斜线命令、涵盖 24 个核心漏洞类别的 681 个披露报告模式，以及企业身份 + 基础设施攻击矩阵。"
    },
    {
     "repo": "GoogleChrome/modern-web-guidance-src",
@@ -126,7 +135,8 @@
     "period_stars": 1220,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "desc_zh": "让您的编码智能体了解最新的网络最佳实践"
    },
    {
     "repo": "tradermonty/claude-trading-skills",
@@ -137,7 +147,8 @@
     "period_stars": 707,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/tradermonty/claude-trading-skills"
+    "url": "https://github.com/tradermonty/claude-trading-skills",
+    "desc_zh": "克劳德代码为股票投资者和交易者提供的技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
    },
    {
     "repo": "NVIDIA/SkillEvaluator",
@@ -148,7 +159,8 @@
     "period_stars": 133,
     "period": "daily",
     "lang_filter": "all",
-    "url": "https://github.com/NVIDIA/SkillEvaluator"
+    "url": "https://github.com/NVIDIA/SkillEvaluator",
+    "desc_zh": "用于评估 AI 智能体技能的多层框架，包括质量门、语义重叠检测、综合评估数据集生成以及衡量技能如何影响智能体行为的实时智能体评估。"
    }
   ],
   "daily|python": [
@@ -161,7 +173,8 @@
     "period_stars": 124,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "desc_zh": "用于错误搜寻和外部红队工作的 Claude Code 技能包 - 82 项技能、15 个斜线命令、涵盖 24 个核心漏洞类别的 681 个披露报告模式，以及企业身份 + 基础设施攻击矩阵。"
    },
    {
     "repo": "tradermonty/claude-trading-skills",
@@ -172,7 +185,8 @@
     "period_stars": 707,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/tradermonty/claude-trading-skills"
+    "url": "https://github.com/tradermonty/claude-trading-skills",
+    "desc_zh": "克劳德代码为股票投资者和交易者提供的技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
    },
    {
     "repo": "NVIDIA/SkillEvaluator",
@@ -183,7 +197,8 @@
     "period_stars": 133,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/NVIDIA/SkillEvaluator"
+    "url": "https://github.com/NVIDIA/SkillEvaluator",
+    "desc_zh": "用于评估 AI 智能体技能的多层框架，包括质量门、语义重叠检测、综合评估数据集生成以及衡量技能如何影响智能体行为的实时智能体评估。"
    },
    {
     "repo": "bojieli/ai-infra-book",
@@ -194,7 +209,8 @@
     "period_stars": 151,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/bojieli/ai-infra-book"
+    "url": "https://github.com/bojieli/ai-infra-book",
+    "desc_zh": "《深入理解AI基础设施：量化分析与系统设计》（李博杰着）开源书稿：从硬件约束和模型架构出发，量化推导LLM推理与训练系统设计。含全书正文、PDF、作业计算工具与实验"
    },
    {
     "repo": "davila7/claude-code-templates",
@@ -205,7 +221,8 @@
     "period_stars": 179,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/davila7/claude-code-templates"
+    "url": "https://github.com/davila7/claude-code-templates",
+    "desc_zh": "Claude Code 组件的开源注册表和 CLI：智能体、命令、技能、挂钩、MCP、设置和 mod"
    },
    {
     "repo": "kajisho5/ffmpeg-skill",
@@ -216,7 +233,8 @@
     "period_stars": 285,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/kajisho5/ffmpeg-skill"
+    "url": "https://github.com/kajisho5/ffmpeg-skill",
+    "desc_zh": "用于编码智能体的本地视频编辑器：42 个 FFmpeg 工具，带有机器可读合约和 MCP 服务器，用于 Claude Code、Cursor 和 Codex。剪切、字幕、重构、响度、平台导出。没有云，没有 API 密钥。"
    },
    {
     "repo": "huytieu/COG-second-brain",
@@ -227,7 +245,8 @@
     "period_stars": 37,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/huytieu/COG-second-brain"
+    "url": "https://github.com/huytieu/COG-second-brain",
+    "desc_zh": "具有 35 种 AI 技能、10 个智能体和人员 CRM 的自我进化第二大脑。闭环安全带：V 模型验证生命周期，工作人员从不给自己的作业评分。加上针对营销和产品 UI 的配对防倾斜设计技能。适用于 Claude Code、Cursor、Kiro、Gemini CLI、Codex。"
    },
    {
     "repo": "SnailSploit/Claude-Red",
@@ -238,7 +257,8 @@
     "period_stars": 135,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/SnailSploit/Claude-Red"
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "desc_zh": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
    },
    {
     "repo": "HKUDS/AutoSwarm",
@@ -249,7 +269,8 @@
     "period_stars": 56,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/HKUDS/AutoSwarm"
+    "url": "https://github.com/HKUDS/AutoSwarm",
+    "desc_zh": "AutoSwarm：统一您的所有智能体。打破环境障碍。观看他们为您一起工作。"
    },
    {
     "repo": "PrefectHQ/fastmcp",
@@ -260,7 +281,8 @@
     "period_stars": 76,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/PrefectHQ/fastmcp"
+    "url": "https://github.com/PrefectHQ/fastmcp",
+    "desc_zh": "🚀 构建 MCP 服务器和客户端的快速、Python 方式。"
    },
    {
     "repo": "fqscfqj/Y2A-Auto",
@@ -271,7 +293,8 @@
     "period_stars": 99,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/fqscfqj/Y2A-Auto"
+    "url": "https://github.com/fqscfqj/Y2A-Auto",
+    "desc_zh": "YouTube到AcFun和bilibili自动化抓取工具，支持AI翻译、字幕生成、内容审核、智能监控"
    },
    {
     "repo": "andrewyng/openworker",
@@ -293,7 +316,8 @@
     "period_stars": 73,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/ManimCommunity/manim"
+    "url": "https://github.com/ManimCommunity/manim",
+    "desc_zh": "社区维护的用于创建数学动画的 Python 框架。"
    },
    {
     "repo": "HKUDS/Vibe-Trading",
@@ -304,7 +328,8 @@
     "period_stars": 83,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/HKUDS/Vibe-Trading"
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "desc_zh": "“Vibe-Trading：您的个人交易智能体”"
    },
    {
     "repo": "Canner/WrenAI",
@@ -315,7 +340,8 @@
     "period_stars": 52,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/Canner/WrenAI"
+    "url": "https://github.com/Canner/WrenAI",
+    "desc_zh": "适用于 AI 智能体的 GenBI（生成式 BI）是一种开源的、通过开放上下文层进行管理的文本到 SQL 的解决方案，可将自然语言问题转换为跨 20 多个数据源（例如 BigQuery、Snowflake、PostgreSQL、ClickHouse、Amazon Redshift、Databricks 等）的可信仪表板、图表和 SQL。"
    },
    {
     "repo": "internetarchive/openlibrary",
@@ -326,7 +352,8 @@
     "period_stars": 9,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/internetarchive/openlibrary"
+    "url": "https://github.com/internetarchive/openlibrary",
+    "desc_zh": "每出版一本书都有一个网页！"
    },
    {
     "repo": "unslothai/unsloth",
@@ -337,7 +364,8 @@
     "period_stars": 59,
     "period": "daily",
     "lang_filter": "python",
-    "url": "https://github.com/unslothai/unsloth"
+    "url": "https://github.com/unslothai/unsloth",
+    "desc_zh": "用于运行和训练大模型和扩散模型的本地 UI。支持 GGUF、MLX、Qwen3.8、DeepSeek-V4.1、MiniMax-H3、Gemma 4、FLUX 等。"
    }
   ],
   "daily|typescript": [
@@ -350,7 +378,8 @@
     "period_stars": 1041,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/dream-num/univer"
+    "url": "https://github.com/dream-num/univer",
+    "desc_zh": "使用 Univer Office SDK 构建您自己的 AI 办公室。将编辑、计算、协作和文件处理引入您的产品中，供人员和 AI 智能体使用。基于可扩展的开源核心构建。"
    },
    {
     "repo": "ag-ui-protocol/ag-ui",
@@ -361,7 +390,8 @@
     "period_stars": 393,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/ag-ui-protocol/ag-ui"
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "desc_zh": "AG-UI：智能体-用户交互协议。将智能体引入前端应用程序。"
    },
    {
     "repo": "google-labs-code/stitch-skills",
@@ -372,7 +402,8 @@
     "period_stars": 248,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/google-labs-code/stitch-skills"
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "desc_zh": "旨在与 Stitch MCP 服务器配合使用的智能体技能库。每个技能都遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体兼容。"
    },
    {
     "repo": "backnotprop/plannotator",
@@ -383,7 +414,8 @@
     "period_stars": 860,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/backnotprop/plannotator"
+    "url": "https://github.com/backnotprop/plannotator",
+    "desc_zh": "保持在循环中并在智能体之上的工作区 - 塑造、决定、计划、注释、审查代码、与团队共享以及一键将所有反馈发送给智能体。"
    },
    {
     "repo": "ChromeDevTools/chrome-devtools-mcp",
@@ -394,7 +426,8 @@
     "period_stars": 718,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc_zh": "用于编码智能体的 Chrome DevTools"
    },
    {
     "repo": "GoogleChrome/modern-web-guidance-src",
@@ -405,7 +438,8 @@
     "period_stars": 1220,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "desc_zh": "让您的编码智能体了解最新的网络最佳实践"
    },
    {
     "repo": "motiondivision/motion",
@@ -416,7 +450,8 @@
     "period_stars": 74,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/motiondivision/motion"
+    "url": "https://github.com/motiondivision/motion",
+    "desc_zh": "用于 React 和 JavaScript 的现代动画库"
    },
    {
     "repo": "assistant-ui/assistant-ui",
@@ -427,7 +462,8 @@
     "period_stars": 92,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/assistant-ui/assistant-ui"
+    "url": "https://github.com/assistant-ui/assistant-ui",
+    "desc_zh": "用于 AI 聊天的 Typescript/React 库 💬🚀"
    },
    {
     "repo": "nolly-studio/cult-ui",
@@ -438,7 +474,8 @@
     "period_stars": 120,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/nolly-studio/cult-ui"
+    "url": "https://github.com/nolly-studio/cult-ui",
+    "desc_zh": "供设计工程师使用的动画组件。 150 多个免费 shadcn/ui 组件，使用 Tailwind CSS 和 Motion 构建。麻省理工学院许可。"
    },
    {
     "repo": "elder-plinius/G0DM0D3",
@@ -449,7 +486,8 @@
     "period_stars": 67,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/elder-plinius/G0DM0D3"
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "desc_zh": "自由的人工智能聊天"
    },
    {
     "repo": "motion-canvas/motion-canvas",
@@ -460,7 +498,8 @@
     "period_stars": 112,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/motion-canvas/motion-canvas"
+    "url": "https://github.com/motion-canvas/motion-canvas",
+    "desc_zh": "用代码可视化您的想法"
    },
    {
     "repo": "tashfeenahmed/freellmapi",
@@ -471,7 +510,8 @@
     "period_stars": 579,
     "period": "daily",
     "lang_filter": "typescript",
-    "url": "https://github.com/tashfeenahmed/freellmapi"
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "desc_zh": "每月 101 亿个代币。 87 个免费的大模型提供商。 1,313 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
    }
   ],
   "daily|javascript": [
@@ -484,7 +524,8 @@
     "period_stars": 352,
     "period": "daily",
     "lang_filter": "javascript",
-    "url": "https://github.com/louislam/uptime-kuma"
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc_zh": "一个精美的自托管监控工具"
    },
    {
     "repo": "maillab/cloud-mail",
@@ -495,7 +536,8 @@
     "period_stars": 412,
     "period": "daily",
     "lang_filter": "javascript",
-    "url": "https://github.com/maillab/cloud-mail"
+    "url": "https://github.com/maillab/cloud-mail",
+    "desc_zh": "由 Cloudflare 提供支持的一体化电子邮件服务平台 | 基于Cloudflare的一站式邮箱服务平台| Cloudflare 邮箱邮箱邮箱"
    },
    {
     "repo": "qist/tvbox",
@@ -506,7 +548,8 @@
     "period_stars": 45,
     "period": "daily",
     "lang_filter": "javascript",
-    "url": "https://github.com/qist/tvbox"
+    "url": "https://github.com/qist/tvbox",
+    "desc_zh": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为您已了解。"
    },
    {
     "repo": "juliangarnier/anime",
@@ -517,7 +560,8 @@
     "period_stars": 78,
     "period": "daily",
     "lang_filter": "javascript",
-    "url": "https://github.com/juliangarnier/anime"
+    "url": "https://github.com/juliangarnier/anime",
+    "desc_zh": "JavaScript 动画引擎"
    },
    {
     "repo": "itsPLK/ps5-payload-manager",
@@ -528,7 +572,8 @@
     "period_stars": 4,
     "period": "daily",
     "lang_filter": "javascript",
-    "url": "https://github.com/itsPLK/ps5-payload-manager"
+    "url": "https://github.com/itsPLK/ps5-payload-manager",
+    "desc_zh": "基于网络的现代仪表板，可轻松管理、导入和自动加载 PS5 上的有效负载。"
    },
    {
     "repo": "vernesong/OpenClash",
@@ -539,7 +584,8 @@
     "period_stars": 26,
     "period": "daily",
     "lang_filter": "javascript",
-    "url": "https://github.com/vernesong/OpenClash"
+    "url": "https://github.com/vernesong/OpenClash",
+    "desc_zh": "OpenWrt 的 Clash 客户端"
    }
   ],
   "daily|go": [
@@ -552,7 +598,8 @@
     "period_stars": 688,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/alibaba/open-code-review"
+    "url": "https://github.com/alibaba/open-code-review",
+    "desc_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM智能体，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
    },
    {
     "repo": "Tencent/LoopForge",
@@ -563,7 +610,8 @@
     "period_stars": 484,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/Tencent/LoopForge"
+    "url": "https://github.com/Tencent/LoopForge",
+    "desc_zh": "用于编码智能体交付的自托管工作流程。使用脚本和人工审批门来编排 CodeBuddy、Codex 和 Claude Code。包括编码助理的本地工作流程。"
    },
    {
     "repo": "google/ax",
@@ -574,7 +622,8 @@
     "period_stars": 35,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/google/ax"
+    "url": "https://github.com/google/ax",
+    "desc_zh": "Agent Executor (AX) 是 Google 的开放智能体编排运行时"
    },
    {
     "repo": "tailscale/tailcat",
@@ -585,7 +634,8 @@
     "period_stars": 245,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/tailscale/tailcat"
+    "url": "https://github.com/tailscale/tailcat",
+    "desc_zh": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
    },
    {
     "repo": "kubescape/kubescape",
@@ -596,7 +646,8 @@
     "period_stars": 13,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/kubescape/kubescape"
+    "url": "https://github.com/kubescape/kubescape",
+    "desc_zh": "Kubescape 是一个适用于 IDE、CI/CD 管道和集群的开源 Kubernetes 安全平台。它包括风险分析、安全性、合规性和错误配置扫描，为 Kubernetes 用户和管理员节省宝贵的时间、精力和资源。"
    },
    {
     "repo": "trustwallet/assets",
@@ -607,7 +658,8 @@
     "period_stars": 2,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/trustwallet/assets"
+    "url": "https://github.com/trustwallet/assets",
+    "desc_zh": "有关数千个（！）加密代币的全面、最新的信息集合。"
    },
    {
     "repo": "HuskerMinion/techo5",
@@ -618,7 +670,8 @@
     "period_stars": 22,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/HuskerMinion/techo5"
+    "url": "https://github.com/HuskerMinion/techo5",
+    "desc_zh": "Echo Show 5 第一代和第二代的开放固件：Alpine Linux 而不是 Android，没有 Alexa。本地 Home Assistant 语音卫星，带有自己的触摸屏、设备唤醒词、SSH 和 A/B 无线更新。"
    },
    {
     "repo": "gravitational/teleport",
@@ -629,7 +682,8 @@
     "period_stars": 2,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/gravitational/teleport"
+    "url": "https://github.com/gravitational/teleport",
+    "desc_zh": "访问和保护所有基础设施的最简单、最安全的方法。"
    },
    {
     "repo": "XTLS/Xray-core",
@@ -640,7 +694,8 @@
     "period_stars": 26,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/XTLS/Xray-core"
+    "url": "https://github.com/XTLS/Xray-core",
+    "desc_zh": "X射线，穿透一切。也是最好的 v2ray 核心。魔法发生的地方。适合多种用途的开放平台。"
    },
    {
     "repo": "erigontech/erigon",
@@ -651,7 +706,8 @@
     "period_stars": 3,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/erigontech/erigon"
+    "url": "https://github.com/erigontech/erigon",
+    "desc_zh": "以太坊在效率前沿的实施"
    },
    {
     "repo": "getlago/lago",
@@ -662,7 +718,8 @@
     "period_stars": 25,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/getlago/lago"
+    "url": "https://github.com/getlago/lago",
+    "desc_zh": "开源计量和基于使用情况的计费 API ⭐️ 消费跟踪、订阅管理、定价迭代、支付编排和收入分析"
    },
    {
     "repo": "mudler/LocalAI",
@@ -673,7 +730,8 @@
     "period_stars": 11,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/mudler/LocalAI"
+    "url": "https://github.com/mudler/LocalAI",
+    "desc_zh": "LocalAI 是开源人工智能引擎。在任何硬件上运行任何模型 - 大模型、视觉、语音、图像、视频。无需 GPU。"
    },
    {
     "repo": "jaegertracing/jaeger",
@@ -684,7 +742,8 @@
     "period_stars": null,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/jaegertracing/jaeger"
+    "url": "https://github.com/jaegertracing/jaeger",
+    "desc_zh": "CNCF Jaeger，分布式追踪平台"
    },
    {
     "repo": "black-ant/Ant-Browser",
@@ -695,7 +754,8 @@
     "period_stars": 10,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/black-ant/Ant-Browser"
+    "url": "https://github.com/black-ant/Ant-Browser",
+    "desc_zh": "指纹浏览器"
    },
    {
     "repo": "meshery/meshery",
@@ -706,7 +766,8 @@
     "period_stars": 15,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/meshery/meshery"
+    "url": "https://github.com/meshery/meshery",
+    "desc_zh": "Meshery，云原生管理器"
    },
    {
     "repo": "gohugoio/hugo",
@@ -717,7 +778,8 @@
     "period_stars": 9,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/gohugoio/hugo"
+    "url": "https://github.com/gohugoio/hugo",
+    "desc_zh": "世界上最快的网站构建框架。"
    },
    {
     "repo": "aldinokemal/go-whatsapp-web-multidevice",
@@ -728,7 +790,8 @@
     "period_stars": 8,
     "period": "daily",
     "lang_filter": "go",
-    "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice"
+    "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+    "desc_zh": "GOWA - WhatsApp REST API，支持 UI、多帐户、Webhooks、MCP 和 Chatwoot。使用 Golang 构建，以实现高效的内存使用。"
    }
   ],
   "daily|rust": [
@@ -741,7 +804,8 @@
     "period_stars": 217,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/ModernRelay/omnigraph"
+    "url": "https://github.com/ModernRelay/omnigraph",
+    "desc_zh": "具有分支和类型本体的对象存储本机图形数据库"
    },
    {
     "repo": "harry0703/MangoDisk",
@@ -752,7 +816,8 @@
     "period_stars": 57,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/harry0703/MangoDisk"
+    "url": "https://github.com/harry0703/MangoDisk",
+    "desc_zh": "适用于 macOS、Windows 和 Linux 的安全第一磁盘清理器和空间分析器，具有重复清理、应用程序卸载、启动管理、系统优化和维护功能。"
    },
    {
     "repo": "martin-olivier/airgorah",
@@ -763,7 +828,8 @@
     "period_stars": 708,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/martin-olivier/airgorah"
+    "url": "https://github.com/martin-olivier/airgorah",
+    "desc_zh": "一款WiFi安全审计软件"
    },
    {
     "repo": "tree-sitter/tree-sitter",
@@ -774,7 +840,8 @@
     "period_stars": 10,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/tree-sitter/tree-sitter"
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "desc_zh": "一种用于编程工具的增量解析系统"
    },
    {
     "repo": "aaif-goose/goose",
@@ -785,7 +852,8 @@
     "period_stars": 72,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/aaif-goose/goose"
+    "url": "https://github.com/aaif-goose/goose",
+    "desc_zh": "开源、可扩展的 AI 智能体，超越代码建议 - 使用任何 LLM 安装、执行、编辑和测试"
    },
    {
     "repo": "antithesishq/bombadil",
@@ -796,7 +864,8 @@
     "period_stars": 189,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/antithesishq/bombadil"
+    "url": "https://github.com/antithesishq/bombadil",
+    "desc_zh": "针对 Web 和终端 UI 的基于属性的测试"
    },
    {
     "repo": "yynxxxxx/Codex-X",
@@ -807,7 +876,8 @@
     "period_stars": 68,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/yynxxxxx/Codex-X"
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "desc_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API切换、会话同步、提示词注入、Skills/MCP管理、TOML配置可视化的跨平台工具。"
    },
    {
     "repo": "dani-garcia/vaultwarden",
@@ -818,7 +888,8 @@
     "period_stars": 44,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/dani-garcia/vaultwarden"
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc_zh": "用 Rust 编写的非官方 Bitwarden 兼容服务器，以前称为 bitwarden_rs"
    },
    {
     "repo": "lance-format/lance",
@@ -829,7 +900,8 @@
     "period_stars": 19,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/lance-format/lance"
+    "url": "https://github.com/lance-format/lance",
+    "desc_zh": "多模式 AI 的开放 Lakehouse 格式。只需 2 行代码即可从 Parquet 进行转换，以实现速度提高 100 倍的随机访问、向量索引和数据版本控制。与 Pandas、DuckDB、Polars、Pyarrow 和 PyTorch 兼容，更多集成即将推出。"
    },
    {
     "repo": "zeronsh/zeron",
@@ -840,7 +912,8 @@
     "period_stars": 46,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/zeronsh/zeron"
+    "url": "https://github.com/zeronsh/zeron",
+    "desc_zh": "Claude Code、Codex、Cursor、Devin 和其他编码智能体的本机控制平面。"
    },
    {
     "repo": "qdrant/qdrant",
@@ -851,7 +924,8 @@
     "period_stars": 22,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/qdrant/qdrant"
+    "url": "https://github.com/qdrant/qdrant",
+    "desc_zh": "Qdrant - 用于下一代人工智能的高性能、大规模矢量数据库和矢量搜索引擎。也可在云中使用 https://cloud.qdrant.io/"
    },
    {
     "repo": "ratatui/ratatui",
@@ -862,7 +936,8 @@
     "period_stars": 19,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/ratatui/ratatui"
+    "url": "https://github.com/ratatui/ratatui",
+    "desc_zh": "用于构建终端用户界面 (TUI) 的 Rust 箱 👨‍🍳🐀 https://ratatui.rs"
    },
    {
     "repo": "block/buzz",
@@ -873,7 +948,8 @@
     "period_stars": 61,
     "period": "daily",
     "lang_filter": "rust",
-    "url": "https://github.com/block/buzz"
+    "url": "https://github.com/block/buzz",
+    "desc_zh": "蜂巢思维交流平台"
    }
   ],
   "daily|java": [
@@ -886,7 +962,8 @@
     "period_stars": 60,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/ashishps1/awesome-low-level-design"
+    "url": "https://github.com/ashishps1/awesome-low-level-design",
+    "desc_zh": "学习底层设计 (LLD) 并使用免费资源准备面试。"
    },
    {
     "repo": "HMCL-dev/HMCL",
@@ -897,7 +974,8 @@
     "period_stars": 11,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/HMCL-dev/HMCL"
+    "url": "https://github.com/HMCL-dev/HMCL",
+    "desc_zh": "一款多功能、跨平台、流行的Minecraft桌面"
    },
    {
     "repo": "StarRocks/starrocks",
@@ -908,7 +986,8 @@
     "period_stars": null,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/StarRocks/starrocks"
+    "url": "https://github.com/StarRocks/starrocks",
+    "desc_zh": "世界上最快的开放查询引擎，可在数据湖内部和外部进行亚秒级分析。 StarRocks 能够灵活地支持几乎任何场景，为多维分析、实时分析和即席查询提供一流的性能。 Linux 基金会项目。"
    },
    {
     "repo": "freeok/so-novel",
@@ -919,7 +998,8 @@
     "period_stars": 20,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/freeok/so-novel"
+    "url": "https://github.com/freeok/so-novel",
+    "desc_zh": "小说下载｜网络文本下载 | 网络小说"
    },
    {
     "repo": "MojoLauncher/MojoLauncher",
@@ -930,7 +1010,8 @@
     "period_stars": null,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/MojoLauncher/MojoLauncher"
+    "url": "https://github.com/MojoLauncher/MojoLauncher",
+    "desc_zh": "Minecraft: Java 版启动器，基于 PojavLauncher"
    },
    {
     "repo": "termux/termux-app",
@@ -941,7 +1022,8 @@
     "period_stars": 94,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/termux/termux-app"
+    "url": "https://github.com/termux/termux-app",
+    "desc_zh": "Termux - 适用于 Android 操作系统的终端仿真器应用程序，可通过各种软件包进行扩展。"
    },
    {
     "repo": "Creators-of-Create/Create",
@@ -952,7 +1034,8 @@
     "period_stars": 0,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/Creators-of-Create/Create"
+    "url": "https://github.com/Creators-of-Create/Create",
+    "desc_zh": "[NeoForge Mod] 建筑工具与美学技术"
    },
    {
     "repo": "FIRST-Tech-Challenge/FtcRobotController",
@@ -963,7 +1046,8 @@
     "period_stars": 2,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController"
+    "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController",
+    "desc_zh": "FTC Android Studio 工作区，用于在 Android Studio 中进行机器人编程"
    },
    {
     "repo": "ModinMobileSTS/Sts2MobileLauncher",
@@ -974,7 +1058,8 @@
     "period_stars": 16,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/ModinMobileSTS/Sts2MobileLauncher"
+    "url": "https://github.com/ModinMobileSTS/Sts2MobileLauncher",
+    "desc_zh": "一个非官方的sts2移动启动器，支持mods，优化的移动控制"
    },
    {
     "repo": "Anuken/Mindustry",
@@ -985,7 +1070,8 @@
     "period_stars": 23,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/Anuken/Mindustry"
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc_zh": "自动化塔防RTS"
    },
    {
     "repo": "MewX/light-novel-library_Wenku8_Android",
@@ -996,7 +1082,8 @@
     "period_stars": 43,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/MewX/light-novel-library_Wenku8_Android"
+    "url": "https://github.com/MewX/light-novel-library_Wenku8_Android",
+    "desc_zh": "[随意维护]轻小说文库(文库8.com)安卓版第三方公益App，从2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器(轻小说阅读器)。目前网站的API由于被大量大众，已更新成我自己架的Cloudflare Worker API中继节点，否则以后网站关闭API就全军覆没了。"
    },
    {
     "repo": "cabaletta/baritone",
@@ -1007,7 +1094,8 @@
     "period_stars": 4,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/cabaletta/baritone"
+    "url": "https://github.com/cabaletta/baritone",
+    "desc_zh": "谷歌地图块游戏"
    },
    {
     "repo": "yuliskov/SmartTube",
@@ -1018,7 +1106,8 @@
     "period_stars": 49,
     "period": "daily",
     "lang_filter": "java",
-    "url": "https://github.com/yuliskov/SmartTube"
+    "url": "https://github.com/yuliskov/SmartTube",
+    "desc_zh": "在 Android TV 上按照您自己的规则浏览媒体内容"
    }
   ],
   "daily|c++": [
@@ -1031,7 +1120,8 @@
     "period_stars": 154,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/ggml-org/ggml"
+    "url": "https://github.com/ggml-org/ggml",
+    "desc_zh": "用于机器学习的张量库"
    },
    {
     "repo": "Likely7/Veyra-NRVideo",
@@ -1042,7 +1132,8 @@
     "period_stars": 731,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/Likely7/Veyra-NRVideo"
+    "url": "https://github.com/Likely7/Veyra-NRVideo",
+    "desc_zh": "通过 DLSS 5 将 PS5 GTA6 提升至 120FPS。先进的 Windows 视频播放器和捕捉增强工具，具有视频、图像和捕捉卡源的实时预览功能。结合 AI 驱动的超分辨率、DLSS5 图像增强和帧生成，提供下一代视觉体验。"
    },
    {
     "repo": "sonicnext-dev/MarathonRecomp",
@@ -1053,7 +1144,8 @@
     "period_stars": 90,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/sonicnext-dev/MarathonRecomp"
+    "url": "https://github.com/sonicnext-dev/MarathonRecomp",
+    "desc_zh": "通过静态重新编译过程创建的 Xbox 360 版刺猬索尼克 (2006) 的非官方 PC 端口"
    },
    {
     "repo": "boykopovar/AnyPS5",
@@ -1064,7 +1156,8 @@
     "period_stars": 244,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/boykopovar/AnyPS5"
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "desc_zh": "自动将 PS5 可执行文件移植到 Linux 和 Windows 的工具"
    },
    {
     "repo": "OrcaSlicer/OrcaSlicer",
@@ -1075,7 +1168,8 @@
     "period_stars": 16,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/OrcaSlicer/OrcaSlicer"
+    "url": "https://github.com/OrcaSlicer/OrcaSlicer",
+    "desc_zh": "用于 3D 打印机的 G 代码生成器（Bambu、Prusa、Voron、VzBot、RatRig、Creality 等）"
    },
    {
     "repo": "stenzek/duckstation",
@@ -1086,7 +1180,8 @@
     "period_stars": 10,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/stenzek/duckstation"
+    "url": "https://github.com/stenzek/duckstation",
+    "desc_zh": "适用于 x86-64/AArch32/AArch64/RV64 的快速 PlayStation 1 模拟器"
    },
    {
     "repo": "godotengine/godot",
@@ -1097,7 +1192,8 @@
     "period_stars": 89,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/godotengine/godot"
+    "url": "https://github.com/godotengine/godot",
+    "desc_zh": "Godot Engine – 多平台 2D 和 3D 游戏引擎"
    },
    {
     "repo": "jrouwe/JoltPhysics",
@@ -1108,7 +1204,8 @@
     "period_stars": 9,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/jrouwe/JoltPhysics"
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "desc_zh": "多核友好的刚体物理和碰撞检测库。用 C++ 编写。适用于游戏和VR应用。被《地平线：西部禁区》和《死亡搁浅 2》所使用。"
    },
    {
     "repo": "SunshineStream/Sunshine",
@@ -1119,7 +1216,8 @@
     "period_stars": 52,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/SunshineStream/Sunshine"
+    "url": "https://github.com/SunshineStream/Sunshine",
+    "desc_zh": "Moonlight 自托管游戏直播主机。"
    },
    {
     "repo": "esphome/esphome",
@@ -1130,7 +1228,8 @@
     "period_stars": 5,
     "period": "daily",
     "lang_filter": "c++",
-    "url": "https://github.com/esphome/esphome"
+    "url": "https://github.com/esphome/esphome",
+    "desc_zh": "ESPHome 是一个通过简单而强大的配置文件控制 ESP32、ESP8266、BK72xx、RP2040 的系统，并通过家庭自动化系统远程控制它们。"
    }
   ],
   "weekly|all": [
@@ -1143,7 +1242,8 @@
     "period_stars": 13660,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/meta/astryx"
+    "url": "https://github.com/meta/astryx",
+    "desc_zh": "完全可定制且可供智能体使用的开源设计系统"
    },
    {
     "repo": "anthropics/skills",
@@ -1154,7 +1254,8 @@
     "period_stars": 6220,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/anthropics/skills"
+    "url": "https://github.com/anthropics/skills",
+    "desc_zh": "智能体技能的公共存储库"
    },
    {
     "repo": "sherlock-project/sherlock",
@@ -1165,7 +1266,8 @@
     "period_stars": 12401,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/sherlock-project/sherlock"
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc_zh": "通过社交网络上的用户名查找社交媒体帐户"
    },
    {
     "repo": "backnotprop/plannotator",
@@ -1176,7 +1278,8 @@
     "period_stars": 818,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/backnotprop/plannotator"
+    "url": "https://github.com/backnotprop/plannotator",
+    "desc_zh": "保持在循环中并在智能体之上的工作区 - 塑造、决定、计划、注释、审查代码、与团队共享以及一键将所有反馈发送给智能体。"
    },
    {
     "repo": "vercel-labs/agent-browser",
@@ -1187,7 +1290,8 @@
     "period_stars": 4601,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/vercel-labs/agent-browser"
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "desc_zh": "用于 AI 智能体的浏览器自动化 CLI"
    },
    {
     "repo": "ZhuLinsen/daily_stock_analysis",
@@ -1198,7 +1302,8 @@
     "period_stars": 4526,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "desc_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动自主，支持零定时运行。LLM驱动的多市场股票智能分析系统，具有多源市场数据、实时新闻、决策仪表板、自动通知和免费计划运行。"
    },
    {
     "repo": "we-promise/sure",
@@ -1209,7 +1314,8 @@
     "period_stars": 4483,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/we-promise/sure"
+    "url": "https://github.com/we-promise/sure",
+    "desc_zh": "适合所有人（所有人）的个人理财应用程序"
    },
    {
     "repo": "milind-soni/OpenMausBot",
@@ -1220,7 +1326,8 @@
     "period_stars": 6413,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/milind-soni/OpenMausBot"
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "desc_zh": "开源 Grok Bot 替代品，带有机器人可以使用的虚拟机"
    },
    {
     "repo": "google/elephant-goldfish-model",
@@ -1231,7 +1338,8 @@
     "period_stars": 5539,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/google/elephant-goldfish-model"
+    "url": "https://github.com/google/elephant-goldfish-model",
+    "desc_zh": "用于与智能体一起设计和审查软件的开源插件"
    },
    {
     "repo": "google-deepmind/mujoco",
@@ -1242,7 +1350,8 @@
     "period_stars": 1859,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/google-deepmind/mujoco"
+    "url": "https://github.com/google-deepmind/mujoco",
+    "desc_zh": "具有接触的多关节动力学。通用物理模拟器。"
    },
    {
     "repo": "addyosmani/agent-skills",
@@ -1253,7 +1362,8 @@
     "period_stars": 3670,
     "period": "weekly",
     "lang_filter": "all",
-    "url": "https://github.com/addyosmani/agent-skills"
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc_zh": "AI 编码智能体的生产级工程技能。"
    }
   ],
   "weekly|python": [
@@ -1266,7 +1376,8 @@
     "period_stars": 6220,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/anthropics/skills"
+    "url": "https://github.com/anthropics/skills",
+    "desc_zh": "智能体技能的公共存储库"
    },
    {
     "repo": "sherlock-project/sherlock",
@@ -1277,7 +1388,8 @@
     "period_stars": 12401,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/sherlock-project/sherlock"
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc_zh": "通过社交网络上的用户名查找社交媒体帐户"
    },
    {
     "repo": "ZhuLinsen/daily_stock_analysis",
@@ -1288,7 +1400,8 @@
     "period_stars": 4526,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "desc_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动自主，支持零定时运行。LLM驱动的多市场股票智能分析系统，具有多源市场数据、实时新闻、决策仪表板、自动通知和免费计划运行。"
    },
    {
     "repo": "google/elephant-goldfish-model",
@@ -1299,7 +1412,8 @@
     "period_stars": 5539,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/google/elephant-goldfish-model"
+    "url": "https://github.com/google/elephant-goldfish-model",
+    "desc_zh": "用于与智能体一起设计和审查软件的开源插件"
    },
    {
     "repo": "homeassistant-ai/ha-mcp",
@@ -1310,7 +1424,8 @@
     "period_stars": 2348,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/homeassistant-ai/ha-mcp"
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "desc_zh": "使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。"
    },
    {
     "repo": "anthropics/claude-quickstarts",
@@ -1321,7 +1436,8 @@
     "period_stars": 1794,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/anthropics/claude-quickstarts"
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "desc_zh": "旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合"
    },
    {
     "repo": "soxoj/maigret",
@@ -1332,7 +1448,8 @@
     "period_stars": 900,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/soxoj/maigret"
+    "url": "https://github.com/soxoj/maigret",
+    "desc_zh": "🕵️‍♂️ 从 6K 个网站按用户名收集某人的档案"
    },
    {
     "repo": "davila7/claude-code-templates",
@@ -1343,7 +1460,8 @@
     "period_stars": 401,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/davila7/claude-code-templates"
+    "url": "https://github.com/davila7/claude-code-templates",
+    "desc_zh": "Claude Code 组件的开源注册表和 CLI：智能体、命令、技能、挂钩、MCP、设置和 mod"
    },
    {
     "repo": "harry0703/MoneyPrinterTurbo",
@@ -1354,7 +1472,8 @@
     "period_stars": 3061,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "desc_zh": "利用AI大模型和自动化工作流程，根据主题或关键词一键生成高清短视频。通过自动化AI工作流程从主题或关键词生成高清短视频。"
    },
    {
     "repo": "google/skills",
@@ -1365,7 +1484,8 @@
     "period_stars": 697,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/google/skills"
+    "url": "https://github.com/google/skills",
+    "desc_zh": "Google 产品和技术的智能体技能"
    },
    {
     "repo": "elementalsouls/Claude-BugHunter",
@@ -1376,7 +1496,8 @@
     "period_stars": 342,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "desc_zh": "用于错误搜寻和外部红队工作的 Claude Code 技能包 - 82 项技能、15 个斜线命令、涵盖 24 个核心漏洞类别的 681 个披露报告模式，以及企业身份 + 基础设施攻击矩阵。"
    },
    {
     "repo": "tradermonty/claude-trading-skills",
@@ -1387,7 +1508,8 @@
     "period_stars": 878,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/tradermonty/claude-trading-skills"
+    "url": "https://github.com/tradermonty/claude-trading-skills",
+    "desc_zh": "克劳德代码为股票投资者和交易者提供的技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
    },
    {
     "repo": "NVIDIA/SkillSpector",
@@ -1398,7 +1520,8 @@
     "period_stars": 1248,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/NVIDIA/SkillSpector"
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "desc_zh": "AI 智能体技能的安全扫描器。在安装之前检测 Claude Code、Codex 和 MCP 技能中的漏洞、恶意模式、安全风险、提示注入、数据泄露和供应链风险。"
    },
    {
     "repo": "mvanhorn/last30days-skill",
@@ -1409,7 +1532,8 @@
     "period_stars": 783,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/mvanhorn/last30days-skill"
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "desc_zh": "AI 智能体技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
    },
    {
     "repo": "bradautomates/claude-video",
@@ -1420,7 +1544,8 @@
     "period_stars": 689,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/bradautomates/claude-video"
+    "url": "https://github.com/bradautomates/claude-video",
+    "desc_zh": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
    },
    {
     "repo": "NVIDIA/auto-ontology",
@@ -1431,7 +1556,8 @@
     "period_stars": 3178,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/NVIDIA/auto-ontology"
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "desc_zh": "Auto Ontology 是一个 Python 框架，用于在数据上构建语义、基于图形的推理层。它为大模型和智能体工作流程提供确定性查询生成、更好的上下文检索以及更可解释的人工智能。"
    },
    {
     "repo": "kajisho5/ffmpeg-skill",
@@ -1442,7 +1568,8 @@
     "period_stars": 1030,
     "period": "weekly",
     "lang_filter": "python",
-    "url": "https://github.com/kajisho5/ffmpeg-skill"
+    "url": "https://github.com/kajisho5/ffmpeg-skill",
+    "desc_zh": "用于编码智能体的本地视频编辑器：42 个 FFmpeg 工具，带有机器可读合约和 MCP 服务器，用于 Claude Code、Cursor 和 Codex。剪切、字幕、重构、响度、平台导出。没有云，没有 API 密钥。"
    }
   ],
   "weekly|typescript": [
@@ -1455,7 +1582,8 @@
     "period_stars": 13660,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/meta/astryx"
+    "url": "https://github.com/meta/astryx",
+    "desc_zh": "完全可定制且可供智能体使用的开源设计系统"
    },
    {
     "repo": "backnotprop/plannotator",
@@ -1466,7 +1594,8 @@
     "period_stars": 818,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/backnotprop/plannotator"
+    "url": "https://github.com/backnotprop/plannotator",
+    "desc_zh": "保持在循环中并在智能体之上的工作区 - 塑造、决定、计划、注释、审查代码、与团队共享以及一键将所有反馈发送给智能体。"
    },
    {
     "repo": "milind-soni/OpenMausBot",
@@ -1477,7 +1606,8 @@
     "period_stars": 6413,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/milind-soni/OpenMausBot"
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "desc_zh": "开源 Grok Bot 替代品，带有机器人可以使用的虚拟机"
    },
    {
     "repo": "openai/codex-security",
@@ -1488,7 +1618,8 @@
     "period_stars": 2176,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/openai/codex-security"
+    "url": "https://github.com/openai/codex-security",
+    "desc_zh": "OpenAI 的 Codex Security CLI 和 TypeScript SDK 用于查找、验证和修复安全漏洞。 npm：https://www.npmjs.com/package/@openai/codex-security"
    },
    {
     "repo": "QwenLM/qwen-code",
@@ -1499,7 +1630,8 @@
     "period_stars": 1173,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/QwenLM/qwen-code"
+    "url": "https://github.com/QwenLM/qwen-code",
+    "desc_zh": "位于您终端中的开源人工智能编码智能体。"
    },
    {
     "repo": "CopilotKit/OpenBot",
@@ -1510,7 +1642,8 @@
     "period_stars": 1900,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/CopilotKit/OpenBot"
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "desc_zh": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 智能体。"
    },
    {
     "repo": "lobehub/lobehub",
@@ -1521,7 +1654,8 @@
     "period_stars": 1258,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/lobehub/lobehub"
+    "url": "https://github.com/lobehub/lobehub",
+    "desc_zh": "🤯 LobeHub - 您团队中的超级智能体。将超级智能体添加到您的团队已使用的聊天中。他们自己承担工作，并且每周都会变得更好。"
    },
    {
     "repo": "google-labs-code/stitch-skills",
@@ -1532,7 +1666,8 @@
     "period_stars": 356,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/google-labs-code/stitch-skills"
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "desc_zh": "旨在与 Stitch MCP 服务器配合使用的智能体技能库。每个技能都遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体兼容。"
    },
    {
     "repo": "a2ui-project/a2ui",
@@ -1543,7 +1678,8 @@
     "period_stars": 408,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/a2ui-project/a2ui"
+    "url": "https://github.com/a2ui-project/a2ui",
+    "desc_zh": "开源生成式 UI 框架：智能体流式传输布局数据，应用程序使用 React、Angular、Lit、Flutter、SwiftUI 和 Jetpack Compose 中的本机组件进行渲染。"
    },
    {
     "repo": "garrytan/gbrain",
@@ -1554,7 +1690,8 @@
     "period_stars": 1351,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/garrytan/gbrain"
+    "url": "https://github.com/garrytan/gbrain",
+    "desc_zh": "加里固执己见的 OpenClaw/Hermes 特工大脑"
    },
    {
     "repo": "every-app/open-seo",
@@ -1565,7 +1702,8 @@
     "period_stars": 992,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/every-app/open-seo"
+    "url": "https://github.com/every-app/open-seo",
+    "desc_zh": "Semrush 和 Ahrefs 的开源替代品"
    },
    {
     "repo": "ranxianglei/billion-context",
@@ -1576,7 +1714,8 @@
     "period_stars": 2942,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/ranxianglei/billion-context"
+    "url": "https://github.com/ranxianglei/billion-context",
+    "desc_zh": "一个上下文压缩插件，适用于长达一个月的单个会话（数十亿个令牌）和小型上下文窗口（100K 上下文就足够了），十亿个上下文就足够了。"
    },
    {
     "repo": "liguobao/ds-harness-remote",
@@ -1587,7 +1726,8 @@
     "period_stars": 719,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/liguobao/ds-harness-remote"
+    "url": "https://github.com/liguobao/ds-harness-remote",
+    "desc_zh": "基于 DeepSeek Harness 插件构建机制的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端和 Web 随时访问本地设备上的 DSH 、CodeX、Cursor、Claude Code 等工作区。 （基于 DeepSeek Harness 插件构建，这种低延迟、端到端加密的 P2P 解决方案可以让 PC、移动和 Web 客户端访问本地 DSH、Codex、Cursor 和 Claude Code工作区。）"
    },
    {
     "repo": "GoogleChrome/modern-web-guidance-src",
@@ -1598,7 +1738,8 @@
     "period_stars": 4363,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "desc_zh": "让您的编码智能体了解最新的网络最佳实践"
    },
    {
     "repo": "elie222/rakazo",
@@ -1609,7 +1750,8 @@
     "period_stars": 966,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/elie222/rakazo"
+    "url": "https://github.com/elie222/rakazo",
+    "desc_zh": "开源 Grok Bot 替代品。选择您自己的模型和沙箱。"
    },
    {
     "repo": "pingdotgg/t3code",
@@ -1620,7 +1762,8 @@
     "period_stars": 9668,
     "period": "weekly",
     "lang_filter": "typescript",
-    "url": "https://github.com/pingdotgg/t3code"
+    "url": "https://github.com/pingdotgg/t3code",
+    "desc_zh": "从任何计算机或手机控制 Claude Code、Codex 等的最佳方式"
    }
   ],
   "weekly|javascript": [
@@ -1633,7 +1776,8 @@
     "period_stars": 3670,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/addyosmani/agent-skills"
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc_zh": "AI 编码智能体的生产级工程技能。"
    },
    {
     "repo": "coreyhaines31/marketingskills",
@@ -1644,7 +1788,8 @@
     "period_stars": 1303,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/coreyhaines31/marketingskills"
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "desc_zh": "Claude Code 和 AI 智能体的营销技巧。 CRO、文案、SEO、分析和增长工程。"
    },
    {
     "repo": "ConardLi/garden-skills",
@@ -1655,7 +1800,8 @@
     "period_stars": 576,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/ConardLi/garden-skills"
+    "url": "https://github.com/ConardLi/garden-skills",
+    "desc_zh": "ConardLi 的开源技能集合，包括网页设计、知识检索、图像生成等。"
    },
    {
     "repo": "louislam/uptime-kuma",
@@ -1666,7 +1812,8 @@
     "period_stars": 873,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/louislam/uptime-kuma"
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc_zh": "一个精美的自托管监控工具"
    },
    {
     "repo": "Leonxlnx/taste-skill",
@@ -1677,7 +1824,8 @@
     "period_stars": 4108,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/Leonxlnx/taste-skill"
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "desc_zh": "赋予编码智能体品味的智能体技能：艺术指导、参考图像和浏览器检查，而不是通用的 AI 页面"
    },
    {
     "repo": "Anil-matcha/Open-Generative-AI",
@@ -1688,7 +1836,8 @@
     "period_stars": 1755,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "desc_zh": "未经审查的 AI 视频平台开源替代方案 — 免费 AI 图像和视频生成工作室，拥有 800 多个模型（Flux、Midjourney、Kling、Sora、Veo）。没有内容过滤器。自托管，麻省理工学院许可。"
    },
    {
     "repo": "maillab/cloud-mail",
@@ -1699,7 +1848,8 @@
     "period_stars": 634,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/maillab/cloud-mail"
+    "url": "https://github.com/maillab/cloud-mail",
+    "desc_zh": "由 Cloudflare 提供支持的一体化电子邮件服务平台 | 基于Cloudflare的一站式邮箱服务平台| Cloudflare 邮箱邮箱邮箱"
    },
    {
     "repo": "expressjs/express",
@@ -1710,7 +1860,8 @@
     "period_stars": 143,
     "period": "weekly",
     "lang_filter": "javascript",
-    "url": "https://github.com/expressjs/express"
+    "url": "https://github.com/expressjs/express",
+    "desc_zh": "快速、不固执、极简的 Node Web 框架。"
    }
   ],
   "weekly|go": [
@@ -1723,7 +1874,8 @@
     "period_stars": 1672,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/alibaba/open-code-review"
+    "url": "https://github.com/alibaba/open-code-review",
+    "desc_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM智能体，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
    },
    {
     "repo": "opensandbox-group/OpenSandbox",
@@ -1734,7 +1886,8 @@
     "period_stars": 814,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/opensandbox-group/OpenSandbox"
+    "url": "https://github.com/opensandbox-group/OpenSandbox",
+    "desc_zh": "适用于 AI 智能体的安全、快速且可扩展的沙箱运行时。"
    },
    {
     "repo": "JuliusBrussee/caveman",
@@ -1745,7 +1898,8 @@
     "period_stars": 1902,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/JuliusBrussee/caveman"
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "desc_zh": "🪨 当很少的令牌可以欺骗时为什么要使用很多令牌。病毒式技能 + 编码智能体的代理，通过像穴居人一样说话来减少 65% 的代币。"
    },
    {
     "repo": "dsx-ai-factory/nvke",
@@ -1756,7 +1910,8 @@
     "period_stars": 799,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/dsx-ai-factory/nvke"
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "desc_zh": "NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。"
    },
    {
     "repo": "trufflesecurity/trufflehog",
@@ -1767,7 +1922,8 @@
     "period_stars": 392,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/trufflesecurity/trufflehog"
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "desc_zh": "查找、验证和分析泄露的凭据"
    },
    {
     "repo": "henrygd/beszel",
@@ -1778,7 +1934,8 @@
     "period_stars": 474,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/henrygd/beszel"
+    "url": "https://github.com/henrygd/beszel",
+    "desc_zh": "具有历史数据、docker 统计信息和警报的轻量级服务器监控。"
    },
    {
     "repo": "cli/cli",
@@ -1789,7 +1946,8 @@
     "period_stars": 144,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/cli/cli"
+    "url": "https://github.com/cli/cli",
+    "desc_zh": "GitHub 的官方命令行工具"
    },
    {
     "repo": "aquasecurity/trivy",
@@ -1800,7 +1958,8 @@
     "period_stars": 258,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/aquasecurity/trivy"
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc_zh": "查找容器、Kubernetes、代码存储库、云等中的漏洞、错误配置、秘密、SBOM"
    },
    {
     "repo": "runkids/skillshare",
@@ -1811,7 +1970,8 @@
     "period_stars": 175,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/runkids/skillshare"
+    "url": "https://github.com/runkids/skillshare",
+    "desc_zh": "📚 通过一个命令将技能、智能体、MCP、插件同步到所有 AI CLI 工具并简化团队共享。"
    },
    {
     "repo": "tailscale/tailcat",
@@ -1822,7 +1982,8 @@
     "period_stars": 1007,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/tailscale/tailcat"
+    "url": "https://github.com/tailscale/tailcat",
+    "desc_zh": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
    },
    {
     "repo": "evcc-io/evcc",
@@ -1833,7 +1994,8 @@
     "period_stars": 86,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/evcc-io/evcc"
+    "url": "https://github.com/evcc-io/evcc",
+    "desc_zh": "智能充电☀️🚘"
    },
    {
     "repo": "multica-ai/multica",
@@ -1844,7 +2006,8 @@
     "period_stars": 951,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/multica-ai/multica"
+    "url": "https://github.com/multica-ai/multica",
+    "desc_zh": "让人类和AI 智能体作为一个团队工作——开源且可自托管。"
    },
    {
     "repo": "kagent-dev/kagent",
@@ -1855,7 +2018,8 @@
     "period_stars": 124,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/kagent-dev/kagent"
+    "url": "https://github.com/kagent-dev/kagent",
+    "desc_zh": "云原生智能体人工智能 |Discord：https://bit.ly/kagentdiscord"
    },
    {
     "repo": "gosom/google-maps-scraper",
@@ -1866,7 +2030,8 @@
     "period_stars": 618,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/gosom/google-maps-scraper"
+    "url": "https://github.com/gosom/google-maps-scraper",
+    "desc_zh": "从谷歌地图上抓取数据。提取每个地点的名称、地址、电话号码、网站 URL、评分、评论数、经纬度、评论、电子邮件等数据"
    },
    {
     "repo": "router-for-me/CLIProxyAPI",
@@ -1877,7 +2042,8 @@
     "period_stars": 739,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/router-for-me/CLIProxyAPI"
+    "url": "https://github.com/router-for-me/CLIProxyAPI",
+    "desc_zh": "将 Antigravity、ChatGPT Codex、Claude Code、Grok Build、Muse Code、Devin 包装为 OpenAI/Gemini/Claude/Codex 兼容的 API 服务，让您通过 API 享受免费的 Gemini Series、GPT Series、Grok Series、Claude 模型"
    },
    {
     "repo": "sundowndev/phoneinfoga",
@@ -1888,7 +2054,8 @@
     "period_stars": 147,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/sundowndev/phoneinfoga"
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "desc_zh": "电话号码信息收集框架"
    },
    {
     "repo": "superplanehq/superplane",
@@ -1899,7 +2066,8 @@
     "period_stars": 997,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/superplanehq/superplane"
+    "url": "https://github.com/superplanehq/superplane",
+    "desc_zh": "用于一次性工程的开源工厂"
    },
    {
     "repo": "gitleaks/gitleaks",
@@ -1910,7 +2078,8 @@
     "period_stars": 271,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/gitleaks/gitleaks"
+    "url": "https://github.com/gitleaks/gitleaks",
+    "desc_zh": "使用 Gitleaks 寻找秘密 🔑"
    },
    {
     "repo": "agent-substrate/substrate",
@@ -1921,7 +2090,8 @@
     "period_stars": 446,
     "period": "weekly",
     "lang_filter": "go",
-    "url": "https://github.com/agent-substrate/substrate"
+    "url": "https://github.com/agent-substrate/substrate",
+    "desc_zh": "Agent Substrate：核心系统"
    }
   ],
   "weekly|rust": [
@@ -1934,7 +2104,8 @@
     "period_stars": 4601,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/vercel-labs/agent-browser"
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "desc_zh": "用于 AI 智能体的浏览器自动化 CLI"
    },
    {
     "repo": "block/buzz",
@@ -1945,7 +2116,8 @@
     "period_stars": 687,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/block/buzz"
+    "url": "https://github.com/block/buzz",
+    "desc_zh": "蜂巢思维交流平台"
    },
    {
     "repo": "vercel-labs/agent-desktop",
@@ -1956,7 +2128,8 @@
     "period_stars": 5171,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/vercel-labs/agent-desktop"
+    "url": "https://github.com/vercel-labs/agent-desktop",
+    "desc_zh": "计算机使用 CLI 进行 AI 智能体"
    },
    {
     "repo": "ruvnet/RuView",
@@ -1967,7 +2140,8 @@
     "period_stars": 1551,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/ruvnet/RuView"
+    "url": "https://github.com/ruvnet/RuView",
+    "desc_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
    },
    {
     "repo": "tokio-rs/topcoat",
@@ -1978,7 +2152,8 @@
     "period_stars": 887,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/tokio-rs/topcoat"
+    "url": "https://github.com/tokio-rs/topcoat",
+    "desc_zh": "用于构建 Web 应用程序的包含电池的框架"
    },
    {
     "repo": "astral-sh/ruff",
@@ -1989,7 +2164,8 @@
     "period_stars": 594,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/astral-sh/ruff"
+    "url": "https://github.com/astral-sh/ruff",
+    "desc_zh": "一个非常快的 Python linter 和代码格式化程序，用 Rust 编写。"
    },
    {
     "repo": "longbridge/gpui-kit",
@@ -2000,7 +2176,8 @@
     "period_stars": 914,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/longbridge/gpui-kit"
+    "url": "https://github.com/longbridge/gpui-kit",
+    "desc_zh": "Rust GUI 组件，用于使用 GPUI 构建出色的跨平台桌面应用程序。"
    },
    {
     "repo": "zellij-org/zellij",
@@ -2011,7 +2188,8 @@
     "period_stars": 160,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/zellij-org/zellij"
+    "url": "https://github.com/zellij-org/zellij",
+    "desc_zh": "包含电池的终端工作区"
    },
    {
     "repo": "rustdesk/rustdesk",
@@ -2022,7 +2200,8 @@
     "period_stars": 980,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/rustdesk/rustdesk"
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc_zh": "一款专为自托管而设计的开源远程桌面应用程序，作为 TeamViewer 的替代品。"
    },
    {
     "repo": "CapSoftware/Cap",
@@ -2033,7 +2212,8 @@
     "period_stars": 446,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/CapSoftware/Cap"
+    "url": "https://github.com/CapSoftware/Cap",
+    "desc_zh": "开源 Loom 替代品。精美、可共享的屏幕录制。"
    },
    {
     "repo": "herdrdev/herdr",
@@ -2044,7 +2224,8 @@
     "period_stars": 2026,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/herdrdev/herdr"
+    "url": "https://github.com/herdrdev/herdr",
+    "desc_zh": "你的编码智能体所在的运行时"
    },
    {
     "repo": "ModernRelay/omnigraph",
@@ -2055,7 +2236,8 @@
     "period_stars": 593,
     "period": "weekly",
     "lang_filter": "rust",
-    "url": "https://github.com/ModernRelay/omnigraph"
+    "url": "https://github.com/ModernRelay/omnigraph",
+    "desc_zh": "具有分支和类型本体的对象存储本机图形数据库"
    }
   ],
   "weekly|java": [
@@ -2068,7 +2250,8 @@
     "period_stars": 523,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/TheAlgorithms/Java"
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc_zh": "所有算法均用 Java 实现"
    },
    {
     "repo": "TeamNewPipe/NewPipe",
@@ -2079,7 +2262,8 @@
     "period_stars": 247,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/TeamNewPipe/NewPipe"
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc_zh": "适用于 Android 的自由轻量级流媒体前端。"
    },
    {
     "repo": "elastic/elasticsearch",
@@ -2090,7 +2274,8 @@
     "period_stars": 202,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/elastic/elasticsearch"
+    "url": "https://github.com/elastic/elasticsearch",
+    "desc_zh": "免费开源、分布式、RESTful 搜索引擎"
    },
    {
     "repo": "keycloak/keycloak",
@@ -2101,7 +2286,8 @@
     "period_stars": 132,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/keycloak/keycloak"
+    "url": "https://github.com/keycloak/keycloak",
+    "desc_zh": "现代应用程序和服务的开源身份和访问管理"
    },
    {
     "repo": "TGX-Android/Telegram-X",
@@ -2112,7 +2298,8 @@
     "period_stars": 34,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/TGX-Android/Telegram-X"
+    "url": "https://github.com/TGX-Android/Telegram-X",
+    "desc_zh": "Telegram X 的主要存储库 — Android 的官方替代 Telegram 客户端。"
    },
    {
     "repo": "yuliskov/SmartTube",
@@ -2123,7 +2310,8 @@
     "period_stars": 307,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/yuliskov/SmartTube"
+    "url": "https://github.com/yuliskov/SmartTube",
+    "desc_zh": "在 Android TV 上按照您自己的规则浏览媒体内容"
    },
    {
     "repo": "ashishps1/awesome-system-design-resources",
@@ -2134,7 +2322,8 @@
     "period_stars": 260,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/ashishps1/awesome-system-design-resources"
+    "url": "https://github.com/ashishps1/awesome-system-design-resources",
+    "desc_zh": "使用免费资源学习系统设计概念并准备面试。"
    },
    {
     "repo": "LSPosed/LSPosed",
@@ -2145,7 +2334,8 @@
     "period_stars": 156,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/LSPosed/LSPosed"
+    "url": "https://github.com/LSPosed/LSPosed",
+    "desc_zh": "LS 框架"
    },
    {
     "repo": "jenkinsci/jenkins",
@@ -2156,7 +2346,8 @@
     "period_stars": 49,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/jenkinsci/jenkins"
+    "url": "https://github.com/jenkinsci/jenkins",
+    "desc_zh": "Jenkins 自动化服务器"
    },
    {
     "repo": "termux/termux-app",
@@ -2167,7 +2358,8 @@
     "period_stars": 556,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/termux/termux-app"
+    "url": "https://github.com/termux/termux-app",
+    "desc_zh": "Termux - 适用于 Android 操作系统的终端仿真器应用程序，可通过各种软件包进行扩展。"
    },
    {
     "repo": "spring-projects/spring-boot",
@@ -2178,7 +2370,8 @@
     "period_stars": 159,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/spring-projects/spring-boot"
+    "url": "https://github.com/spring-projects/spring-boot",
+    "desc_zh": "Spring Boot 可帮助您轻松创建由 Spring 驱动的生产级应用程序和服务。"
    },
    {
     "repo": "jean-voila/FeurStagram",
@@ -2189,7 +2382,8 @@
     "period_stars": 95,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/jean-voila/FeurStagram"
+    "url": "https://github.com/jean-voila/FeurStagram",
+    "desc_zh": "没有卷轴、提要或广告的 Instagram：一款适用于 Android 的开源、可更新的 Instagram 应用程序，可保留 DM 和故事。"
    },
    {
     "repo": "agentscope-ai/agentscope-java",
@@ -2200,7 +2394,8 @@
     "period_stars": 89,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
+    "url": "https://github.com/agentscope-ai/agentscope-java",
+    "desc_zh": "构建分布式、生产级、长期运行的智能体。"
    },
    {
     "repo": "aleixrodriala/newtube",
@@ -2211,7 +2406,8 @@
     "period_stars": 84,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/aleixrodriala/newtube"
+    "url": "https://github.com/aleixrodriala/newtube",
+    "desc_zh": "适用于手机的 SmartTube，非官方：适用于 Android 的开源 YouTube 客户端。后台播放、画中画、SponsorBlock、DeArrow、离线保存、代码登录。"
    },
    {
     "repo": "freerouting/freerouting",
@@ -2222,7 +2418,8 @@
     "period_stars": 43,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/freerouting/freerouting"
+    "url": "https://github.com/freerouting/freerouting",
+    "desc_zh": "先进的PCB自动布线器"
    },
    {
     "repo": "apache/fineract",
@@ -2233,7 +2430,8 @@
     "period_stars": 19,
     "period": "weekly",
     "lang_filter": "java",
-    "url": "https://github.com/apache/fineract"
+    "url": "https://github.com/apache/fineract",
+    "desc_zh": "阿帕奇Fineract"
    }
   ],
   "weekly|c++": [
@@ -2246,7 +2444,8 @@
     "period_stars": 1859,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/google-deepmind/mujoco"
+    "url": "https://github.com/google-deepmind/mujoco",
+    "desc_zh": "具有接触的多关节动力学。通用物理模拟器。"
    },
    {
     "repo": "ggml-org/llama.cpp",
@@ -2257,7 +2456,8 @@
     "period_stars": 1539,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/ggml-org/llama.cpp"
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "desc_zh": "C/C++ 中的 LLM 推理"
    },
    {
     "repo": "Likely7/Veyra-NRVideo",
@@ -2268,7 +2468,8 @@
     "period_stars": 970,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/Likely7/Veyra-NRVideo"
+    "url": "https://github.com/Likely7/Veyra-NRVideo",
+    "desc_zh": "通过 DLSS 5 将 PS5 GTA6 提升至 120FPS。先进的 Windows 视频播放器和捕捉增强工具，具有视频、图像和捕捉卡源的实时预览功能。结合 AI 驱动的超分辨率、DLSS5 图像增强和帧生成，提供下一代视觉体验。"
    },
    {
     "repo": "orailnoor/cross-platform-llm-client",
@@ -2279,7 +2480,8 @@
     "period_stars": 677,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/orailnoor/cross-platform-llm-client"
+    "url": "https://github.com/orailnoor/cross-platform-llm-client",
+    "desc_zh": "统一的跨平台人工智能客户端，支持标准云 API 与设备上、离线执行自定义和未经审查的语言模型之间的无缝转换。"
    },
    {
     "repo": "facebookresearch/faiss",
@@ -2290,7 +2492,8 @@
     "period_stars": 409,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/facebookresearch/faiss"
+    "url": "https://github.com/facebookresearch/faiss",
+    "desc_zh": "用于高效相似性搜索和密集向量聚类的库。"
    },
    {
     "repo": "dariulone/cyberpunk-vr-port",
@@ -2312,7 +2515,8 @@
     "period_stars": 452,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/dashdogy/MFG-Unlocker"
+    "url": "https://github.com/dashdogy/MFG-Unlocker",
+    "desc_zh": "DLSS 多帧生成解锁和控制 RTX 系列 GPU 上任何受支持的 MFG 标题"
    },
    {
     "repo": "ggml-org/ggml",
@@ -2323,7 +2527,8 @@
     "period_stars": 224,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/ggml-org/ggml"
+    "url": "https://github.com/ggml-org/ggml",
+    "desc_zh": "用于机器学习的张量库"
    },
    {
     "repo": "alibaba/MNN",
@@ -2334,7 +2539,8 @@
     "period_stars": 116,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/alibaba/MNN"
+    "url": "https://github.com/alibaba/MNN",
+    "desc_zh": "MNN：一款经过阿里巴巴久经考验的超快、轻量级推理引擎，为高性能设备上 LLM 和边缘 AI 提供支持。"
    },
    {
     "repo": "nlohmann/json",
@@ -2345,7 +2551,8 @@
     "period_stars": 76,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/nlohmann/json"
+    "url": "https://github.com/nlohmann/json",
+    "desc_zh": "现代 C++ 的 JSON"
    },
    {
     "repo": "azahar-emu/azahar",
@@ -2356,7 +2563,8 @@
     "period_stars": 100,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/azahar-emu/azahar"
+    "url": "https://github.com/azahar-emu/azahar",
+    "desc_zh": "一个基于 Citra 的开源 3DS 模拟器项目。"
    },
    {
     "repo": "opencv/opencv",
@@ -2367,7 +2575,8 @@
     "period_stars": 129,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/opencv/opencv"
+    "url": "https://github.com/opencv/opencv",
+    "desc_zh": "开源计算机视觉库"
    },
    {
     "repo": "tensorflow/tensorflow",
@@ -2378,7 +2587,8 @@
     "period_stars": 294,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/tensorflow/tensorflow"
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc_zh": "适合所有人的开源机器学习框架"
    },
    {
     "repo": "google/googletest",
@@ -2389,7 +2599,8 @@
     "period_stars": 38,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/google/googletest"
+    "url": "https://github.com/google/googletest",
+    "desc_zh": "GoogleTest - Google 测试和模拟框架"
    },
    {
     "repo": "throneproj/Throne",
@@ -2400,7 +2611,8 @@
     "period_stars": 143,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/throneproj/Throne"
+    "url": "https://github.com/throneproj/Throne",
+    "desc_zh": "跨平台 GUI 代理实用程序（由 sing-box 提供支持）"
    },
    {
     "repo": "BruceDevices/firmware",
@@ -2411,7 +2623,8 @@
     "period_stars": 64,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/BruceDevices/firmware"
+    "url": "https://github.com/BruceDevices/firmware",
+    "desc_zh": "掠夺性 ESP32 固件"
    },
    {
     "repo": "SunshineStream/Sunshine",
@@ -2422,7 +2635,8 @@
     "period_stars": 332,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/SunshineStream/Sunshine"
+    "url": "https://github.com/SunshineStream/Sunshine",
+    "desc_zh": "Moonlight 自托管游戏直播主机。"
    },
    {
     "repo": "Atmosphere-NX/Atmosphere",
@@ -2433,7 +2647,8 @@
     "period_stars": 101,
     "period": "weekly",
     "lang_filter": "c++",
-    "url": "https://github.com/Atmosphere-NX/Atmosphere"
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc_zh": "Atmosphère 是一款正在开发中的 Nintendo Switch 定制固件。"
    }
   ],
   "monthly|all": [
@@ -2446,7 +2661,8 @@
     "period_stars": 25013,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/Nutlope/hallmark"
+    "url": "https://github.com/Nutlope/hallmark",
+    "desc_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
    },
    {
     "repo": "cloudflare/security-audit-skill",
@@ -2457,7 +2673,8 @@
     "period_stars": 43171,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/cloudflare/security-audit-skill"
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "desc_zh": "用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的结果"
    },
    {
     "repo": "pingdotgg/t3code",
@@ -2468,7 +2685,8 @@
     "period_stars": 32857,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/pingdotgg/t3code"
+    "url": "https://github.com/pingdotgg/t3code",
+    "desc_zh": "从任何计算机或手机控制 Claude Code、Codex 等的最佳方式"
    },
    {
     "repo": "thedotmack/claude-mem",
@@ -2479,7 +2697,8 @@
     "period_stars": 17051,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "url": "https://github.com/thedotmack/claude-mem",
+    "desc_zh": "每个智能体跨会话的持久上下文 – 捕获智能体在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
    },
    {
     "repo": "pbakaus/impeccable",
@@ -2490,7 +2709,8 @@
     "period_stars": 29487,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/pbakaus/impeccable"
+    "url": "https://github.com/pbakaus/impeccable",
+    "desc_zh": "编码智能体的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
    },
    {
     "repo": "anthropics/skills",
@@ -2501,7 +2721,8 @@
     "period_stars": 13927,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/anthropics/skills"
+    "url": "https://github.com/anthropics/skills",
+    "desc_zh": "智能体技能的公共存储库"
    },
    {
     "repo": "HKUDS/DeepTutor",
@@ -2512,7 +2733,8 @@
     "period_stars": 18077,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/HKUDS/DeepTutor"
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "desc_zh": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
    },
    {
     "repo": "heygen-com/hyperframes",
@@ -2523,7 +2745,8 @@
     "period_stars": 21361,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/heygen-com/hyperframes"
+    "url": "https://github.com/heygen-com/hyperframes",
+    "desc_zh": "编写 HTML。渲染视频。专为智能体商打造。"
    },
    {
     "repo": "sherlock-project/sherlock",
@@ -2534,7 +2757,8 @@
     "period_stars": 18365,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/sherlock-project/sherlock"
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc_zh": "通过社交网络上的用户名查找社交媒体帐户"
    },
    {
     "repo": "AgriciDaniel/claude-seo",
@@ -2545,7 +2769,8 @@
     "period_stars": 10402,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/AgriciDaniel/claude-seo"
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "desc_zh": "Claude Code 的通用 SEO 技能。 26 个子技能 + 19 个子智能体，涵盖技术 SEO、E-E-A-T、模式、GEO/AEO、智能体准备情况（Lighthouse Agentic Browsing、WebMCP、llms.txt）、反向链接、本地 SEO、电子商务、国际 SEO、Google API 和 PDF/Excel 报告。实时 SEO 数据的 9 种可选扩展。"
    },
    {
     "repo": "Leonxlnx/taste-skill",
@@ -2556,7 +2781,8 @@
     "period_stars": 20043,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/Leonxlnx/taste-skill"
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "desc_zh": "赋予编码智能体品味的智能体技能：艺术指导、参考图像和浏览器检查，而不是通用的 AI 页面"
    },
    {
     "repo": "anthropics/knowledge-work-plugins",
@@ -2567,7 +2793,8 @@
     "period_stars": 6228,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/anthropics/knowledge-work-plugins"
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "desc_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
    },
    {
     "repo": "Vincentwei1021/video-shotcraft",
@@ -2578,7 +2805,8 @@
     "period_stars": 7617,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "desc_zh": "Claude Code & Codex 的 AI 视频技能 — 使用 Remotion 进行电影化、可编辑的产品宣传片：124 个镜头配方卡、150 个动作预览、节拍同步、声音设计、Motion Workbench 和JianYing (CapCut CN) 导出。"
    },
    {
     "repo": "vercel-labs/agent-browser",
@@ -2589,7 +2817,8 @@
     "period_stars": 7152,
     "period": "monthly",
     "lang_filter": "all",
-    "url": "https://github.com/vercel-labs/agent-browser"
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "desc_zh": "用于 AI 智能体的浏览器自动化 CLI"
    }
   ],
   "monthly|python": [
@@ -2602,7 +2831,8 @@
     "period_stars": 13927,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/anthropics/skills"
+    "url": "https://github.com/anthropics/skills",
+    "desc_zh": "智能体技能的公共存储库"
    },
    {
     "repo": "HKUDS/DeepTutor",
@@ -2613,7 +2843,8 @@
     "period_stars": 18077,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/HKUDS/DeepTutor"
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "desc_zh": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
    },
    {
     "repo": "sherlock-project/sherlock",
@@ -2624,7 +2855,8 @@
     "period_stars": 18365,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/sherlock-project/sherlock"
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc_zh": "通过社交网络上的用户名查找社交媒体帐户"
    },
    {
     "repo": "AgriciDaniel/claude-seo",
@@ -2635,7 +2867,8 @@
     "period_stars": 10402,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/AgriciDaniel/claude-seo"
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "desc_zh": "Claude Code 的通用 SEO 技能。 26 个子技能 + 19 个子智能体，涵盖技术 SEO、E-E-A-T、模式、GEO/AEO、智能体准备情况（Lighthouse Agentic Browsing、WebMCP、llms.txt）、反向链接、本地 SEO、电子商务、国际 SEO、Google API 和 PDF/Excel 报告。实时 SEO 数据的 9 种可选扩展。"
    },
    {
     "repo": "anthropics/knowledge-work-plugins",
@@ -2646,7 +2879,8 @@
     "period_stars": 6228,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/anthropics/knowledge-work-plugins"
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "desc_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
    },
    {
     "repo": "debpalash/VoiceStudio",
@@ -2657,7 +2891,8 @@
     "period_stars": 46324,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/debpalash/VoiceStudio"
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "desc_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
    },
    {
     "repo": "AstrBotDevs/AstrBot",
@@ -2668,7 +2903,8 @@
     "period_stars": 5296,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/AstrBotDevs/AstrBot"
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "desc_zh": "AI Agent Assistant & 开发框架，集成了大量 IM 平台、LLM、插件和 AI 功能，可以成为您的 openclaw 替代方案。 ✨"
    },
    {
     "repo": "NVIDIA/SkillSpector",
@@ -2679,7 +2915,8 @@
     "period_stars": 5926,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/NVIDIA/SkillSpector"
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "desc_zh": "AI 智能体技能的安全扫描器。在安装之前检测 Claude Code、Codex 和 MCP 技能中的漏洞、恶意模式、安全风险、提示注入、数据泄露和供应链风险。"
    },
    {
     "repo": "D4Vinci/Scrapling",
@@ -2690,7 +2927,8 @@
     "period_stars": 15754,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/D4Vinci/Scrapling"
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "desc_zh": "🕷️ 最好的网页抓取框架，可以处理从单个请求到全面抓取的所有内容！不要害羞，加入这里：https://discord.gg/EMgGbDceNQ 并按照此处获取日常提示和技巧：https://x.com/Scrapling_dev"
    },
    {
     "repo": "The-PR-Agent/pr-agent",
@@ -2701,7 +2939,8 @@
     "period_stars": 2835,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/The-PR-Agent/pr-agent"
+    "url": "https://github.com/The-PR-Agent/pr-agent",
+    "desc_zh": "🚀 公关智能体：原始开源公关审核员。该项目不是 Qodo 免费套餐。"
    },
    {
     "repo": "harry0703/MoneyPrinterTurbo",
@@ -2712,7 +2951,8 @@
     "period_stars": 13454,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "desc_zh": "利用AI大模型和自动化工作流程，根据主题或关键词一键生成高清短视频。通过自动化AI工作流程从主题或关键词生成高清短视频。"
    },
    {
     "repo": "fastapi/fastapi",
@@ -2723,7 +2963,8 @@
     "period_stars": 2599,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/fastapi/fastapi"
+    "url": "https://github.com/fastapi/fastapi",
+    "desc_zh": "FastAPI框架，高性能，易学，快速编码，可用于生产"
    },
    {
     "repo": "666ghj/MiroFish",
@@ -2734,7 +2975,8 @@
     "period_stars": 6766,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/666ghj/MiroFish"
+    "url": "https://github.com/666ghj/MiroFish",
+    "desc_zh": "一个简单且通用的群体智能引擎，可以预测任何事情。 简洁通用的群体智能引擎，预测万物"
    },
    {
     "repo": "anthropics/claude-plugins-official",
@@ -2745,7 +2987,8 @@
     "period_stars": 9575,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/anthropics/claude-plugins-official"
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc_zh": "由 Anthropic 管理的官方高品质 Claude 代码插件目录。"
    },
    {
     "repo": "luongnv89/claude-howto",
@@ -2756,7 +2999,8 @@
     "period_stars": 5494,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/luongnv89/claude-howto"
+    "url": "https://github.com/luongnv89/claude-howto",
+    "desc_zh": "克劳德代码的可视化、示例驱动指南——从基本概念到高级智能体，以及可带来即时价值的复制粘贴模板。"
    },
    {
     "repo": "pandas-dev/pandas",
@@ -2767,7 +3011,8 @@
     "period_stars": 1062,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/pandas-dev/pandas"
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc_zh": "灵活而强大的Python数据分析/操作库，提供类似于R data.frame对象的标记数据结构、统计函数等等"
    },
    {
     "repo": "vllm-project/vllm",
@@ -2778,7 +3023,8 @@
     "period_stars": 3371,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/vllm-project/vllm"
+    "url": "https://github.com/vllm-project/vllm",
+    "desc_zh": "适用于大模型的高吞吐量和内存高效推理和服务引擎"
    },
    {
     "repo": "ahujasid/mcp-for-blender",
@@ -2789,7 +3035,8 @@
     "period_stars": 3730,
     "period": "monthly",
     "lang_filter": "python",
-    "url": "https://github.com/ahujasid/mcp-for-blender"
+    "url": "https://github.com/ahujasid/mcp-for-blender",
+    "desc_zh": "社区插件，可使用您选择的任何大模型来控制 Blender 3D。不隶属于官方 Blender 基金会。"
    }
   ],
   "monthly|typescript": [
@@ -2802,7 +3049,8 @@
     "period_stars": 32857,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/pingdotgg/t3code"
+    "url": "https://github.com/pingdotgg/t3code",
+    "desc_zh": "从任何计算机或手机控制 Claude Code、Codex 等的最佳方式"
    },
    {
     "repo": "thedotmack/claude-mem",
@@ -2813,7 +3061,8 @@
     "period_stars": 17051,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "url": "https://github.com/thedotmack/claude-mem",
+    "desc_zh": "每个智能体跨会话的持久上下文 – 捕获智能体在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
    },
    {
     "repo": "heygen-com/hyperframes",
@@ -2824,7 +3073,8 @@
     "period_stars": 21361,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/heygen-com/hyperframes"
+    "url": "https://github.com/heygen-com/hyperframes",
+    "desc_zh": "编写 HTML。渲染视频。专为智能体商打造。"
    },
    {
     "repo": "Vincentwei1021/video-shotcraft",
@@ -2835,7 +3085,8 @@
     "period_stars": 7617,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "desc_zh": "Claude Code & Codex 的 AI 视频技能 — 使用 Remotion 进行电影化、可编辑的产品宣传片：124 个镜头配方卡、150 个动作预览、节拍同步、声音设计、Motion Workbench 和JianYing (CapCut CN) 导出。"
    },
    {
     "repo": "JetBrains/thinkrail",
@@ -2846,7 +3097,8 @@
     "period_stars": 7798,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/JetBrains/thinkrail"
+    "url": "https://github.com/JetBrains/thinkrail",
+    "desc_zh": "ThinkRail 是一款智能体 IDE，每次使用都会变得更好"
    },
    {
     "repo": "anomalyco/opencode",
@@ -2857,7 +3109,8 @@
     "period_stars": 14930,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/anomalyco/opencode"
+    "url": "https://github.com/anomalyco/opencode",
+    "desc_zh": "开源编码智能体。"
    },
    {
     "repo": "vercel-labs/skills",
@@ -2868,7 +3121,8 @@
     "period_stars": 4598,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/vercel-labs/skills"
+    "url": "https://github.com/vercel-labs/skills",
+    "desc_zh": "开放智能体技能工具——npx技能"
    },
    {
     "repo": "stablyai/orca",
@@ -2879,7 +3133,8 @@
     "period_stars": 33348,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/stablyai/orca"
+    "url": "https://github.com/stablyai/orca",
+    "desc_zh": "Orca 允许您通过自己的订阅运行一组编码智能体（例如 Claude Code、Codex）。可在桌面、移动和远程运行时使用。"
    },
    {
     "repo": "remotion-dev/remotion",
@@ -2890,7 +3145,8 @@
     "period_stars": 9305,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/remotion-dev/remotion"
+    "url": "https://github.com/remotion-dev/remotion",
+    "desc_zh": "🎥 使用 React 以编程方式制作视频"
    },
    {
     "repo": "backnotprop/plannotator",
@@ -2901,7 +3157,8 @@
     "period_stars": 2229,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/backnotprop/plannotator"
+    "url": "https://github.com/backnotprop/plannotator",
+    "desc_zh": "保持在循环中并在智能体之上的工作区 - 塑造、决定、计划、注释、审查代码、与团队共享以及一键将所有反馈发送给智能体。"
    },
    {
     "repo": "tashfeenahmed/freellmapi",
@@ -2912,7 +3169,8 @@
     "period_stars": 17449,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/tashfeenahmed/freellmapi"
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "desc_zh": "每月 101 亿个代币。 87 个免费的大模型提供商。 1,313 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
    },
    {
     "repo": "CopilotKit/OpenBot",
@@ -2923,7 +3181,8 @@
     "period_stars": 5846,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/CopilotKit/OpenBot"
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "desc_zh": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 智能体。"
    },
    {
     "repo": "gitroomhq/postiz-app",
@@ -2934,7 +3193,8 @@
     "period_stars": 4562,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/gitroomhq/postiz-app"
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "desc_zh": "📨 终极智能体社交媒体调度工具🤖"
    },
    {
     "repo": "ranxianglei/billion-context",
@@ -2945,7 +3205,8 @@
     "period_stars": 6203,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/ranxianglei/billion-context"
+    "url": "https://github.com/ranxianglei/billion-context",
+    "desc_zh": "一个上下文压缩插件，适用于长达一个月的单个会话（数十亿个令牌）和小型上下文窗口（100K 上下文就足够了），十亿个上下文就足够了。"
    },
    {
     "repo": "elie222/rakazo",
@@ -2956,7 +3217,8 @@
     "period_stars": 4462,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/elie222/rakazo"
+    "url": "https://github.com/elie222/rakazo",
+    "desc_zh": "开源 Grok Bot 替代品。选择您自己的模型和沙箱。"
    },
    {
     "repo": "anthropics/sandbox-runtime",
@@ -2967,7 +3229,8 @@
     "period_stars": 1603,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/anthropics/sandbox-runtime"
+    "url": "https://github.com/anthropics/sandbox-runtime",
+    "desc_zh": "一种轻量级沙箱工具，用于在操作系统级别对任意进程实施文件系统和网络限制，而无需容器。"
    },
    {
     "repo": "github/docs",
@@ -2978,7 +3241,8 @@
     "period_stars": 764,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/github/docs"
+    "url": "https://github.com/github/docs",
+    "desc_zh": "docs.github.com 的开源存储库"
    },
    {
     "repo": "microsoft/playwright",
@@ -2989,7 +3253,8 @@
     "period_stars": 2644,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/microsoft/playwright"
+    "url": "https://github.com/microsoft/playwright",
+    "desc_zh": "Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。"
    },
    {
     "repo": "google-gemini/gemini-cli",
@@ -3000,7 +3265,8 @@
     "period_stars": 2039,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/google-gemini/gemini-cli"
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "desc_zh": "一款开源 AI 智能体，可将 Gemini 的强大功能直接带入您的终端。"
    },
    {
     "repo": "Renhuai123/ziwei-doushu",
@@ -3011,7 +3277,8 @@
     "period_stars": 13844,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/Renhuai123/ziwei-doushu"
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "desc_zh": "紫微斗数排盘引擎 — 基于开源倪海大厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍元数据"
    },
    {
     "repo": "GoogleChrome/modern-web-guidance-src",
@@ -3022,7 +3289,8 @@
     "period_stars": 4463,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "desc_zh": "让您的编码智能体了解最新的网络最佳实践"
    },
    {
     "repo": "milind-soni/OpenMausBot",
@@ -3033,7 +3301,8 @@
     "period_stars": 17957,
     "period": "monthly",
     "lang_filter": "typescript",
-    "url": "https://github.com/milind-soni/OpenMausBot"
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "desc_zh": "开源 Grok Bot 替代品，带有机器人可以使用的虚拟机"
    }
   ],
   "monthly|javascript": [
@@ -3046,7 +3315,8 @@
     "period_stars": 43171,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/cloudflare/security-audit-skill"
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "desc_zh": "用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的结果"
    },
    {
     "repo": "Leonxlnx/taste-skill",
@@ -3057,7 +3327,8 @@
     "period_stars": 20043,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/Leonxlnx/taste-skill"
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "desc_zh": "赋予编码智能体品味的智能体技能：艺术指导、参考图像和浏览器检查，而不是通用的 AI 页面"
    },
    {
     "repo": "rorygallagher2024/glasshouse",
@@ -3068,7 +3339,8 @@
     "period_stars": 1487,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/rorygallagher2024/glasshouse"
+    "url": "https://github.com/rorygallagher2024/glasshouse",
+    "desc_zh": "对于已 root 的 LG webOS 电视：实时仪表板、隐私控制、去膨胀、广告和遥测拦截器、替换主屏幕和自定义屏幕保护程序。在电视本身上运行。包括用于智能家居控制的可选 Home Assistant MQTT 桥。"
    },
    {
     "repo": "citrolabs/ego-lite",
@@ -3079,7 +3351,8 @@
     "period_stars": 5583,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/citrolabs/ego-lite"
+    "url": "https://github.com/citrolabs/ego-lite",
+    "desc_zh": "AI 智能体运行浏览器自动化速度最快的浏览器，专为与您的 AI 智能体（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
    },
    {
     "repo": "DuarteSantos8/openGym",
@@ -3090,7 +3363,8 @@
     "period_stars": 9809,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/DuarteSantos8/openGym"
+    "url": "https://github.com/DuarteSantos8/openGym",
+    "desc_zh": "开源健身房和体重追踪器，现已在 App Store（iPhone + Apple Watch）中以 Android APK 形式提供。计划日常活动、记录锻炼、查看哪些肌肉得到了训练、从 Strong/Hevy/FitNotes 导入。自行托管或单独在手机上使用。"
    },
    {
     "repo": "mrdoob/three.js",
@@ -3101,7 +3375,8 @@
     "period_stars": 2105,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/mrdoob/three.js"
+    "url": "https://github.com/mrdoob/three.js",
+    "desc_zh": "JavaScript 3D 库。"
    },
    {
     "repo": "hmjz100/LinkSwift",
@@ -3112,7 +3387,8 @@
     "period_stars": 18020,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/hmjz100/LinkSwift"
+    "url": "https://github.com/hmjz100/LinkSwift",
+    "desc_zh": "一个基于JavaScript的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改，支持百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘八大网盘"
    },
    {
     "repo": "withmarbleapp/os-taxonomy",
@@ -3134,7 +3410,8 @@
     "period_stars": 412,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/jquery/jquery"
+    "url": "https://github.com/jquery/jquery",
+    "desc_zh": "jQuery JavaScript 库"
    },
    {
     "repo": "ConardLi/garden-skills",
@@ -3145,7 +3422,8 @@
     "period_stars": 2361,
     "period": "monthly",
     "lang_filter": "javascript",
-    "url": "https://github.com/ConardLi/garden-skills"
+    "url": "https://github.com/ConardLi/garden-skills",
+    "desc_zh": "ConardLi 的开源技能集合，包括网页设计、知识检索、图像生成等。"
    }
   ],
   "monthly|go": [
@@ -3158,7 +3436,8 @@
     "period_stars": 4790,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/ollama/ollama"
+    "url": "https://github.com/ollama/ollama",
+    "desc_zh": "启动并运行 Kimi、GLM、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 和其他模型。"
    },
    {
     "repo": "prometheus/prometheus",
@@ -3169,7 +3448,8 @@
     "period_stars": 1524,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/prometheus/prometheus"
+    "url": "https://github.com/prometheus/prometheus",
+    "desc_zh": "Prometheus监控系统和时间序列数据库。"
    },
    {
     "repo": "docker/compose",
@@ -3180,7 +3460,8 @@
     "period_stars": 643,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/docker/compose"
+    "url": "https://github.com/docker/compose",
+    "desc_zh": "使用 Docker 定义和运行多容器应用程序"
    },
    {
     "repo": "netbirdio/netbird",
@@ -3191,7 +3472,8 @@
     "period_stars": 1121,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/netbirdio/netbird"
+    "url": "https://github.com/netbirdio/netbird",
+    "desc_zh": "NetBird 通过一个基于身份的零信任平台安全地连接任何网络上的人员、机器和AI 智能体。由点对点 WireGuard® 提供支持"
    },
    {
     "repo": "gosom/google-maps-scraper",
@@ -3202,7 +3484,8 @@
     "period_stars": 1630,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/gosom/google-maps-scraper"
+    "url": "https://github.com/gosom/google-maps-scraper",
+    "desc_zh": "从谷歌地图上抓取数据。提取每个地点的名称、地址、电话号码、网站 URL、评分、评论数、经纬度、评论、电子邮件等数据"
    },
    {
     "repo": "moby/moby",
@@ -3213,7 +3496,8 @@
     "period_stars": 442,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/moby/moby"
+    "url": "https://github.com/moby/moby",
+    "desc_zh": "Moby 项目 - 容器生态系统的协作项目，用于组装基于容器的系统"
    },
    {
     "repo": "aquasecurity/trivy",
@@ -3224,7 +3508,8 @@
     "period_stars": 988,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/aquasecurity/trivy"
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc_zh": "查找容器、Kubernetes、代码存储库、云等中的漏洞、错误配置、秘密、SBOM"
    },
    {
     "repo": "rclone/rclone",
@@ -3235,7 +3520,8 @@
     "period_stars": 849,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/rclone/rclone"
+    "url": "https://github.com/rclone/rclone",
+    "desc_zh": "“用于云存储的 rsync” - Google Drive、S3、Dropbox、Backblaze B2、One Drive、Swift、Hubic、Wasabi、Google 云存储、Azure Blob、Azure 文件、Yandex 文件"
    },
    {
     "repo": "argoproj/argo-cd",
@@ -3246,7 +3532,8 @@
     "period_stars": 246,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/argoproj/argo-cd"
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc_zh": "Kubernetes 声明式持续部署"
    },
    {
     "repo": "Asymptote-Labs/agent-beacon",
@@ -3257,7 +3544,8 @@
     "period_stars": 1661,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/Asymptote-Labs/agent-beacon"
+    "url": "https://github.com/Asymptote-Labs/agent-beacon",
+    "desc_zh": "AI 智能体的交叉利用、自我改进的记忆层。加入我们的社区：https://discord.com/invite/zdNChS2fBu"
    },
    {
     "repo": "gitleaks/gitleaks",
@@ -3268,7 +3556,8 @@
     "period_stars": 1165,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/gitleaks/gitleaks"
+    "url": "https://github.com/gitleaks/gitleaks",
+    "desc_zh": "使用 Gitleaks 寻找秘密 🔑"
    },
    {
     "repo": "go-gitea/gitea",
@@ -3279,7 +3568,8 @@
     "period_stars": 717,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/go-gitea/gitea"
+    "url": "https://github.com/go-gitea/gitea",
+    "desc_zh": "喝杯茶吧！无痛自托管一体化软件开发服务，包括 Git 托管、代码审查、团队协作、包注册和 CI/CD"
    },
    {
     "repo": "opensandbox-group/OpenSandbox",
@@ -3290,7 +3580,8 @@
     "period_stars": 1474,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/opensandbox-group/OpenSandbox"
+    "url": "https://github.com/opensandbox-group/OpenSandbox",
+    "desc_zh": "适用于 AI 智能体的安全、快速且可扩展的沙箱运行时。"
    },
    {
     "repo": "VictoriaMetrics/VictoriaMetrics",
@@ -3301,7 +3592,8 @@
     "period_stars": 285,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/VictoriaMetrics/VictoriaMetrics"
+    "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "desc_zh": "VictoriaMetrics：快速、经济高效的监控解决方案和时间序列数据库"
    },
    {
     "repo": "HuskerMinion/techo5",
@@ -3312,7 +3604,8 @@
     "period_stars": 375,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/HuskerMinion/techo5"
+    "url": "https://github.com/HuskerMinion/techo5",
+    "desc_zh": "Echo Show 5 第一代和第二代的开放固件：Alpine Linux 而不是 Android，没有 Alexa。本地 Home Assistant 语音卫星，带有自己的触摸屏、设备唤醒词、SSH 和 A/B 无线更新。"
    },
    {
     "repo": "superplanehq/superplane",
@@ -3323,7 +3616,8 @@
     "period_stars": 2530,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/superplanehq/superplane"
+    "url": "https://github.com/superplanehq/superplane",
+    "desc_zh": "用于一次性工程的开源工厂"
    },
    {
     "repo": "etcd-io/etcd",
@@ -3334,7 +3628,8 @@
     "period_stars": 541,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/etcd-io/etcd"
+    "url": "https://github.com/etcd-io/etcd",
+    "desc_zh": "用于分布式系统最关键数据的分布式可靠键值存储"
    },
    {
     "repo": "tailscale/tailscale",
@@ -3345,7 +3640,8 @@
     "period_stars": 1723,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/tailscale/tailscale"
+    "url": "https://github.com/tailscale/tailscale",
+    "desc_zh": "使用 WireGuard 和 2FA 的最简单、最安全的方法。"
    },
    {
     "repo": "trufflesecurity/trufflehog",
@@ -3356,7 +3652,8 @@
     "period_stars": 854,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/trufflesecurity/trufflehog"
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "desc_zh": "查找、验证和分析泄露的凭据"
    },
    {
     "repo": "mudler/LocalAI",
@@ -3367,7 +3664,8 @@
     "period_stars": 957,
     "period": "monthly",
     "lang_filter": "go",
-    "url": "https://github.com/mudler/LocalAI"
+    "url": "https://github.com/mudler/LocalAI",
+    "desc_zh": "LocalAI 是开源人工智能引擎。在任何硬件上运行任何模型 - 大模型、视觉、语音、图像、视频。无需 GPU。"
    }
   ],
   "monthly|rust": [
@@ -3380,7 +3678,8 @@
     "period_stars": 29487,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/pbakaus/impeccable"
+    "url": "https://github.com/pbakaus/impeccable",
+    "desc_zh": "编码智能体的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
    },
    {
     "repo": "vercel-labs/agent-browser",
@@ -3391,7 +3690,8 @@
     "period_stars": 7152,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/vercel-labs/agent-browser"
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "desc_zh": "用于 AI 智能体的浏览器自动化 CLI"
    },
    {
     "repo": "akitaonrails/ai-memory",
@@ -3402,7 +3702,8 @@
     "period_stars": 6696,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/akitaonrails/ai-memory"
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "desc_zh": "用于智能体编码 CLI 的长期记忆解决方案，并促进不同智能体供应商之间的切换"
    },
    {
     "repo": "max-sixty/worktrunk",
@@ -3413,7 +3714,8 @@
     "period_stars": 3344,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/max-sixty/worktrunk"
+    "url": "https://github.com/max-sixty/worktrunk",
+    "desc_zh": "Worktrunk 是一个用于 Git 工作树管理的 CLI，专为并行 AI 智能体工作流程而设计"
    },
    {
     "repo": "zed-industries/zed",
@@ -3424,7 +3726,8 @@
     "period_stars": 3903,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/zed-industries/zed"
+    "url": "https://github.com/zed-industries/zed",
+    "desc_zh": "以思想的速度编写代码 – Zed 是一款高性能、多人代码编辑器，由 Atom 和 Tree-sitter 的创建者开发。"
    },
    {
     "repo": "cjpais/Handy",
@@ -3435,7 +3738,8 @@
     "period_stars": 5125,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/cjpais/Handy"
+    "url": "https://github.com/cjpais/Handy",
+    "desc_zh": "一款免费、开源且可扩展的语音转文本应用程序，完全离线工作。"
    },
    {
     "repo": "agentgateway/agentgateway",
@@ -3446,7 +3750,8 @@
     "period_stars": 854,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/agentgateway/agentgateway"
+    "url": "https://github.com/agentgateway/agentgateway",
+    "desc_zh": "适用于 AI 智能体和 MCP 服务器的下一代代理代理"
    },
    {
     "repo": "astral-sh/ruff",
@@ -3457,7 +3762,8 @@
     "period_stars": 1634,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/astral-sh/ruff"
+    "url": "https://github.com/astral-sh/ruff",
+    "desc_zh": "一个非常快的 Python linter 和代码格式化程序，用 Rust 编写。"
    },
    {
     "repo": "ruvnet/RuView",
@@ -3468,7 +3774,8 @@
     "period_stars": 6722,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/ruvnet/RuView"
+    "url": "https://github.com/ruvnet/RuView",
+    "desc_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
    },
    {
     "repo": "vercel-labs/agent-desktop",
@@ -3479,7 +3786,8 @@
     "period_stars": 22011,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/vercel-labs/agent-desktop"
+    "url": "https://github.com/vercel-labs/agent-desktop",
+    "desc_zh": "计算机使用 CLI 进行 AI 智能体"
    },
    {
     "repo": "xerj-org/xerj",
@@ -3490,7 +3798,8 @@
     "period_stars": 16472,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/xerj-org/xerj"
+    "url": "https://github.com/xerj-org/xerj",
+    "desc_zh": "用于机器人和智能体的 AI 搜索引擎和 MCP 服务器。一种 Rust 二进制索引代码、文档、日志、JSONL/CSV 和 PDF，用于 BM25 全文、矢量和混合搜索、无需 grep 的代码搜索、智能体内存和 RAG。兼容 Elasticsearch 的 API； Corpus Hub 提供数百个参考记忆语料库。"
    },
    {
     "repo": "jub0t/Concat",
@@ -3501,7 +3810,8 @@
     "period_stars": 12275,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/jub0t/Concat"
+    "url": "https://github.com/jub0t/Concat",
+    "desc_zh": "Beta：真正免费、开源、本地优先、跨平台的视频编辑器。可通过 JSON-RPC API 和 MCP 编写脚本。"
    },
    {
     "repo": "ModernRelay/omnigraph",
@@ -3512,7 +3822,8 @@
     "period_stars": 1112,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/ModernRelay/omnigraph"
+    "url": "https://github.com/ModernRelay/omnigraph",
+    "desc_zh": "具有分支和类型本体的对象存储本机图形数据库"
    },
    {
     "repo": "macro-inc/macro",
@@ -3523,7 +3834,8 @@
     "period_stars": 1694,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/macro-inc/macro"
+    "url": "https://github.com/macro-inc/macro",
+    "desc_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、智能体、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
    },
    {
     "repo": "oven-sh/bun",
@@ -3534,7 +3846,8 @@
     "period_stars": 967,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/oven-sh/bun"
+    "url": "https://github.com/oven-sh/bun",
+    "desc_zh": "令人难以置信的快速 JavaScript 运行时、捆绑器、测试运行器和包管理器 – 全部合而为一"
    },
    {
     "repo": "trymirai/uzu",
@@ -3545,7 +3858,8 @@
     "period_stars": 1025,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/trymirai/uzu"
+    "url": "https://github.com/trymirai/uzu",
+    "desc_zh": "用于人工智能模型的高性能推理引擎"
    },
    {
     "repo": "Mesh-LLM/mesh-llm",
@@ -3556,7 +3870,8 @@
     "period_stars": 621,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/Mesh-LLM/mesh-llm"
+    "url": "https://github.com/Mesh-LLM/mesh-llm",
+    "desc_zh": "为人们提供分布式 AI/LLM。私下或公开共享计算，为您的智能体和聊天提供支持。"
    },
    {
     "repo": "astral-sh/uv",
@@ -3567,7 +3882,8 @@
     "period_stars": 1739,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/astral-sh/uv"
+    "url": "https://github.com/astral-sh/uv",
+    "desc_zh": "一个非常快的 Python 包和项目管理器，用 Rust 编写。"
    },
    {
     "repo": "memvid/memvid",
@@ -3578,7 +3894,8 @@
     "period_stars": 848,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/memvid/memvid"
+    "url": "https://github.com/memvid/memvid",
+    "desc_zh": "AI 智能体的内存层。使用无服务器、单文件内存层替换复杂的 RAG 管道。为您的智能体提供即时检索和长期记忆。"
    },
    {
     "repo": "tauri-apps/tauri",
@@ -3589,7 +3906,8 @@
     "period_stars": 1264,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/tauri-apps/tauri"
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc_zh": "使用 Web 前端构建更小、更快、更安全的桌面和移动应用程序。"
    },
    {
     "repo": "ZSeven-W/openpencil",
@@ -3600,7 +3918,8 @@
     "period_stars": 1116,
     "period": "monthly",
     "lang_filter": "rust",
-    "url": "https://github.com/ZSeven-W/openpencil"
+    "url": "https://github.com/ZSeven-W/openpencil",
+    "desc_zh": "世界上第一个开源人工智能原生矢量设计工具，也是第一个具有并发智能体团队功能的工具。设计即代码。直接在实时画布上将提示转变为 UI。铅笔的现代替代品。"
    }
   ],
   "monthly|java": [
@@ -3613,7 +3932,8 @@
     "period_stars": 13446,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/NationalSecurityAgency/ghidra"
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc_zh": "Ghidra 是一个软件逆向工程 (SRE) 框架"
    },
    {
     "repo": "elastic/elasticsearch",
@@ -3624,7 +3944,8 @@
     "period_stars": 589,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/elastic/elasticsearch"
+    "url": "https://github.com/elastic/elasticsearch",
+    "desc_zh": "免费开源、分布式、RESTful 搜索引擎"
    },
    {
     "repo": "floci-io/floci",
@@ -3635,7 +3956,8 @@
     "period_stars": 5025,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/floci-io/floci"
+    "url": "https://github.com/floci-io/floci",
+    "desc_zh": "轻便、蓬松且始终免费 - AWS 本地模拟器替代方案"
    },
    {
     "repo": "iBotPeaches/Apktool",
@@ -3646,7 +3968,8 @@
     "period_stars": 1368,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/iBotPeaches/Apktool"
+    "url": "https://github.com/iBotPeaches/Apktool",
+    "desc_zh": "Android apk文件逆向工程工具"
    },
    {
     "repo": "HMCL-dev/HMCL",
@@ -3657,7 +3980,8 @@
     "period_stars": 806,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/HMCL-dev/HMCL"
+    "url": "https://github.com/HMCL-dev/HMCL",
+    "desc_zh": "一款多功能、跨平台、流行的Minecraft桌面"
    },
    {
     "repo": "TheAlgorithms/Java",
@@ -3668,7 +3992,8 @@
     "period_stars": 989,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/TheAlgorithms/Java"
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc_zh": "所有算法均用 Java 实现"
    },
    {
     "repo": "mlmvpn/mlmvpn_android",
@@ -3679,7 +4004,8 @@
     "period_stars": 346,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/mlmvpn/mlmvpn_android"
+    "url": "https://github.com/mlmvpn/mlmvpn_android",
+    "desc_zh": "多引擎 Android VPN — Xray、WARP、Psiphon、Tor、Geph、OpenVPN、MASQUE/AmneziaWG 以及通过自己的最佳路径路由每个应用程序的 MLM 自适应引擎； Cloudflare 面板、Config Studio、游戏助推器。 Kotlin + Jetpack Compose。 | VPN VPN 服务"
    },
    {
     "repo": "spring-projects/spring-framework",
@@ -3690,7 +4016,8 @@
     "period_stars": 122,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/spring-projects/spring-framework"
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc_zh": "Spring框架"
    },
    {
     "repo": "spring-projects/spring-boot",
@@ -3701,7 +4028,8 @@
     "period_stars": 633,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/spring-projects/spring-boot"
+    "url": "https://github.com/spring-projects/spring-boot",
+    "desc_zh": "Spring Boot 可帮助您轻松创建由 Spring 驱动的生产级应用程序和服务。"
    },
    {
     "repo": "kdn251/interviews",
@@ -3712,7 +4040,8 @@
     "period_stars": 341,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/kdn251/interviews"
+    "url": "https://github.com/kdn251/interviews",
+    "desc_zh": "获得这份工作所需了解的一切。"
    },
    {
     "repo": "skylot/jadx",
@@ -3723,7 +4052,8 @@
     "period_stars": 986,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/skylot/jadx"
+    "url": "https://github.com/skylot/jadx",
+    "desc_zh": "Dex 到 Java 反编译器"
    },
    {
     "repo": "trinodb/trino",
@@ -3734,7 +4064,8 @@
     "period_stars": 195,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/trinodb/trino"
+    "url": "https://github.com/trinodb/trino",
+    "desc_zh": "Trino 的官方存储库，用于大数据的分布式 SQL 查询引擎，以前称为 PrestoSQL (https://trino.io)"
    },
    {
     "repo": "LSPosed/LSPosed",
@@ -3745,7 +4076,8 @@
     "period_stars": 596,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/LSPosed/LSPosed"
+    "url": "https://github.com/LSPosed/LSPosed",
+    "desc_zh": "LS 框架"
    },
    {
     "repo": "TeamNewPipe/NewPipe",
@@ -3756,7 +4088,8 @@
     "period_stars": 720,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/TeamNewPipe/NewPipe"
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc_zh": "适用于 Android 的自由轻量级流媒体前端。"
    },
    {
     "repo": "AbdurazaaqMohammed/MP-Manager",
@@ -3767,7 +4100,8 @@
     "period_stars": 337,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/AbdurazaaqMohammed/MP-Manager"
+    "url": "https://github.com/AbdurazaaqMohammed/MP-Manager",
+    "desc_zh": "双窗格 Android 文件管理器，专注于 APK"
    },
    {
     "repo": "termux/termux-app",
@@ -3778,7 +4112,8 @@
     "period_stars": 2458,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/termux/termux-app"
+    "url": "https://github.com/termux/termux-app",
+    "desc_zh": "Termux - 适用于 Android 操作系统的终端仿真器应用程序，可通过各种软件包进行扩展。"
    },
    {
     "repo": "DependencyTrack/dependency-track",
@@ -3789,7 +4124,8 @@
     "period_stars": 184,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/DependencyTrack/dependency-track"
+    "url": "https://github.com/DependencyTrack/dependency-track",
+    "desc_zh": "Dependency-Track 是一个智能组件分析平台，允许组织识别并降低软件供应链中的风险。"
    },
    {
     "repo": "appdevforall/CodeOnTheGo",
@@ -3800,7 +4136,8 @@
     "period_stars": 172,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/appdevforall/CodeOnTheGo"
+    "url": "https://github.com/appdevforall/CodeOnTheGo",
+    "desc_zh": "Code on the Go 是一款 IDE，可让您在 Android 手机上构建 Android 应用程序，无需笔记本电脑，也无需访问互联网。 Code on the Go 是 App Dev for All 的一个项目。"
    },
    {
     "repo": "traccar/traccar",
@@ -3811,7 +4148,8 @@
     "period_stars": 271,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/traccar/traccar"
+    "url": "https://github.com/traccar/traccar",
+    "desc_zh": "开源 GPS 跟踪平台 - 自托管或托管，200 多个设备协议"
    },
    {
     "repo": "openrewrite/rewrite",
@@ -3822,7 +4160,8 @@
     "period_stars": 207,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/openrewrite/rewrite"
+    "url": "https://github.com/openrewrite/rewrite",
+    "desc_zh": "自动大规模重构源代码。"
    },
    {
     "repo": "LawnchairLauncher/lawnchair",
@@ -3833,7 +4172,8 @@
     "period_stars": 303,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/LawnchairLauncher/lawnchair"
+    "url": "https://github.com/LawnchairLauncher/lawnchair",
+    "desc_zh": "不需要巧妙的口号。"
    },
    {
     "repo": "halo-dev/halo",
@@ -3844,7 +4184,8 @@
     "period_stars": 425,
     "period": "monthly",
     "lang_filter": "java",
-    "url": "https://github.com/halo-dev/halo"
+    "url": "https://github.com/halo-dev/halo",
+    "desc_zh": "Halo 是一款强大的Arduino的建站工具，从个人博客、知识库，到企业官网、在线商城，Halo有助于帮助您轻松实现，轻松满足您的虚拟建站需求。"
    }
   ],
   "monthly|c++": [
@@ -3857,7 +4198,8 @@
     "period_stars": 1957,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/hyprwm/Hyprland"
+    "url": "https://github.com/hyprwm/Hyprland",
+    "desc_zh": "Hyprland 是一个独立的、高度可定制的、动态平铺 Wayland 合成器，并且不会牺牲其外观。"
    },
    {
     "repo": "78/xiaozhi-esp32",
@@ -3868,7 +4210,8 @@
     "period_stars": 2243,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/78/xiaozhi-esp32"
+    "url": "https://github.com/78/xiaozhi-esp32",
+    "desc_zh": "基于 MCP 的聊天机器人 | 一个基于MCP的聊天机器人"
    },
    {
     "repo": "orailnoor/cross-platform-llm-client",
@@ -3879,7 +4222,8 @@
     "period_stars": 1220,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/orailnoor/cross-platform-llm-client"
+    "url": "https://github.com/orailnoor/cross-platform-llm-client",
+    "desc_zh": "统一的跨平台人工智能客户端，支持标准云 API 与设备上、离线执行自定义和未经审查的语言模型之间的无缝转换。"
    },
    {
     "repo": "godotengine/godot",
@@ -3890,7 +4234,8 @@
     "period_stars": 2059,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/godotengine/godot"
+    "url": "https://github.com/godotengine/godot",
+    "desc_zh": "Godot Engine – 多平台 2D 和 3D 游戏引擎"
    },
    {
     "repo": "electron/electron",
@@ -3901,7 +4246,8 @@
     "period_stars": 777,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/electron/electron"
+    "url": "https://github.com/electron/electron",
+    "desc_zh": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用程序"
    },
    {
     "repo": "google-deepmind/mujoco",
@@ -3912,7 +4258,8 @@
     "period_stars": 2310,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/google-deepmind/mujoco"
+    "url": "https://github.com/google-deepmind/mujoco",
+    "desc_zh": "具有接触的多关节动力学。通用物理模拟器。"
    },
    {
     "repo": "Likely7/Veyra-NRVideo",
@@ -3923,7 +4270,8 @@
     "period_stars": 1226,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/Likely7/Veyra-NRVideo"
+    "url": "https://github.com/Likely7/Veyra-NRVideo",
+    "desc_zh": "通过 DLSS 5 将 PS5 GTA6 提升至 120FPS。先进的 Windows 视频播放器和捕捉增强工具，具有视频、图像和捕捉卡源的实时预览功能。结合 AI 驱动的超分辨率、DLSS5 图像增强和帧生成，提供下一代视觉体验。"
    },
    {
     "repo": "geode-sdk/geode",
@@ -3934,7 +4282,8 @@
     "period_stars": 391,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/geode-sdk/geode"
+    "url": "https://github.com/geode-sdk/geode",
+    "desc_zh": "终极几何冲刺模组框架"
    },
    {
     "repo": "dashdogy/MFG-Unlocker",
@@ -3945,7 +4294,8 @@
     "period_stars": 1359,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/dashdogy/MFG-Unlocker"
+    "url": "https://github.com/dashdogy/MFG-Unlocker",
+    "desc_zh": "DLSS 多帧生成解锁和控制 RTX 系列 GPU 上任何受支持的 MFG 标题"
    },
    {
     "repo": "mg-chao/snow-shot",
@@ -3956,7 +4306,8 @@
     "period_stars": 1263,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/mg-chao/snow-shot"
+    "url": "https://github.com/mg-chao/snow-shot",
+    "desc_zh": "Snow Shot 是免费的开源屏幕截图软件和屏幕录制工具，适用于 Windows 和 macOS，具有注释、滚动屏幕截图、离线 OCR 和图像固定功能。 免费开源截图软件，支持截图、滚动长截图、离线OCR、贴图与录屏。"
    },
    {
     "repo": "FreeCAD/FreeCAD",
@@ -3967,7 +4318,8 @@
     "period_stars": 1237,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/FreeCAD/FreeCAD"
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "desc_zh": "FreeCAD 的官方源代码，一个免费的开源多平台 3D 参数化建模器。"
    },
    {
     "repo": "opentoonz/opentoonz",
@@ -3978,7 +4330,8 @@
     "period_stars": 415,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/opentoonz/opentoonz"
+    "url": "https://github.com/opentoonz/opentoonz",
+    "desc_zh": "OpenToonz - 一款开源的全功能2D动画创作软件"
    },
    {
     "repo": "keepassxreboot/keepassxc",
@@ -3989,7 +4342,8 @@
     "period_stars": 852,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/keepassxreboot/keepassxc"
+    "url": "https://github.com/keepassxreboot/keepassxc",
+    "desc_zh": "KeePassXC 是 Windows 应用程序“KeePass Password Safe”的跨平台社区驱动端口。"
    },
    {
     "repo": "ran-j/PS2Recomp",
@@ -4000,7 +4354,8 @@
     "period_stars": 421,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/ran-j/PS2Recomp"
+    "url": "https://github.com/ran-j/PS2Recomp",
+    "desc_zh": "Playstation 2 静态重新编译器和运行时工具，用于制作本机 PC 端口"
    },
    {
     "repo": "facebookresearch/faiss",
@@ -4011,7 +4366,8 @@
     "period_stars": 581,
     "period": "monthly",
     "lang_filter": "c++",
-    "url": "https://github.com/facebookresearch/faiss"
+    "url": "https://github.com/facebookresearch/faiss",
+    "desc_zh": "用于高效相似性搜索和密集向量聚类的库。"
    }
   ]
  },
